@@ -1,0 +1,2001 @@
+Name,Experience_Years,Skills,Education,Applied_Job_Role
+Candidate_0,1,"Node.js, MongoDB",BCA,Data Scientist
+Candidate_1,7,"JavaScript, React",B.Com,Product Manager
+Candidate_2,4,"Angular, TypeScript",BCA,Frontend Developer
+Candidate_3,0,"Excel, Admin",M.Tech,Backend Developer
+Candidate_4,15,"Angular, TypeScript",B.Com,DevOps Engineer
+Candidate_5,10,"AWS, DevOps",MBA,Frontend Developer
+Candidate_6,8,"Java, Spring",BCA,Product Manager
+Candidate_7,12,"C++, IoT",B.Sc in IT,Frontend Developer
+Candidate_8,3,"JavaScript, React",MBA,DevOps Engineer
+Candidate_9,2,"PHP, Laravel",B.Com,Virtual Assistant
+Candidate_10,10,"Java, Spring",Diploma in CS,Data Scientist
+Candidate_11,6,"R, Statistics",B.Com,DevOps Engineer
+Candidate_12,2,"Angular, TypeScript",MBA,Frontend Developer
+Candidate_13,3,"AWS, DevOps",B.Tech in CS,Embedded Engineer
+Candidate_14,3,"R, Statistics",MCA,Frontend Developer
+Candidate_15,1,"PHP, Laravel",MBA,Data Scientist
+Candidate_16,0,"Python, SQL, ML",MBA,Backend Developer
+Candidate_17,11,"Python, SQL, ML",Diploma in CS,DevOps Engineer
+Candidate_18,13,"Node.js, MongoDB",BCA,Frontend Developer
+Candidate_19,0,"Angular, TypeScript",B.Sc in IT,Product Manager
+Candidate_20,0,"C++, IoT",MBA,Product Manager
+Candidate_21,0,"JavaScript, React",MBA,DevOps Engineer
+Candidate_22,4,"Angular, TypeScript",B.Tech in CS,Embedded Engineer
+Candidate_23,11,"Node.js, MongoDB",BCA,Product Manager
+Candidate_24,7,"Python, SQL, ML",B.Com,Virtual Assistant
+Candidate_25,15,"AWS, DevOps",MCA,Data Analyst
+Candidate_26,2,"Excel, Admin",BCA,Data Analyst
+Candidate_27,8,"R, Statistics",MBA,Virtual Assistant
+Candidate_28,12,"C++, IoT",B.Com,Product Manager
+Candidate_29,13,"C++, IoT",B.Tech in CS,Embedded Engineer
+Candidate_30,0,"Excel, Admin",B.Com,DevOps Engineer
+Candidate_31,4,"Excel, Admin",MBA,Backend Developer
+Candidate_32,15,"JavaScript, React",MBA,Product Manager
+Candidate_33,2,"Java, Spring",B.Com,DevOps Engineer
+Candidate_34,10,"Node.js, MongoDB",B.Tech in CS,Frontend Developer
+Candidate_35,12,"Python, SQL, ML",B.Tech in CS,Virtual Assistant
+Candidate_36,13,"C++, IoT",MBA,Data Scientist
+Candidate_37,4,"Java, Spring",MCA,Frontend Developer
+Candidate_38,14,"Excel, Admin",M.Tech,Data Analyst
+Candidate_39,10,"JavaScript, React",MBA,Frontend Developer
+Candidate_40,14,"R, Statistics",Diploma in CS,DevOps Engineer
+Candidate_41,4,"C++, IoT",MBA,Virtual Assistant
+Candidate_42,9,"C++, IoT",BCA,Product Manager
+Candidate_43,2,"JavaScript, React",B.Tech in CS,Virtual Assistant
+Candidate_44,5,"PHP, Laravel",Diploma in CS,Backend Developer
+Candidate_45,8,"Angular, TypeScript",B.Tech in CS,Frontend Developer
+Candidate_46,5,"Excel, Admin",B.Com,Backend Developer
+Candidate_47,6,"Angular, TypeScript",Diploma in CS,Frontend Developer
+Candidate_48,13,"Excel, Admin",MCA,Frontend Developer
+Candidate_49,10,"Python, SQL, ML",M.Tech,Virtual Assistant
+Candidate_50,4,"Angular, TypeScript",MCA,Data Scientist
+Candidate_51,7,"AWS, DevOps",BCA,Data Analyst
+Candidate_52,1,"AWS, DevOps",B.Sc in IT,DevOps Engineer
+Candidate_53,3,"Python, SQL, ML",B.Com,Product Manager
+Candidate_54,3,"Excel, Admin",BCA,Embedded Engineer
+Candidate_55,0,"Java, Spring",BCA,Product Manager
+Candidate_56,1,"C++, IoT",BCA,Frontend Developer
+Candidate_57,15,"Java, Spring",MBA,Product Manager
+Candidate_58,2,"Python, SQL, ML",B.Com,Embedded Engineer
+Candidate_59,6,"Node.js, MongoDB",B.Tech in CS,Data Analyst
+Candidate_60,12,"Node.js, MongoDB",Diploma in CS,Product Manager
+Candidate_61,7,"Node.js, MongoDB",B.Com,Frontend Developer
+Candidate_62,7,"Angular, TypeScript",B.Sc in IT,Data Scientist
+Candidate_63,10,"Python, SQL, ML",B.Sc in IT,DevOps Engineer
+Candidate_64,9,"Angular, TypeScript",B.Com,Backend Developer
+Candidate_65,4,"Node.js, MongoDB",M.Tech,Frontend Developer
+Candidate_66,14,"AWS, DevOps",MBA,Data Analyst
+Candidate_67,10,"R, Statistics",BCA,Data Analyst
+Candidate_68,8,"AWS, DevOps",B.Com,Embedded Engineer
+Candidate_69,1,"C++, IoT",B.Tech in CS,Data Scientist
+Candidate_70,8,"C++, IoT",B.Tech in CS,Embedded Engineer
+Candidate_71,13,"Java, Spring",MBA,Frontend Developer
+Candidate_72,3,"R, Statistics",MCA,Embedded Engineer
+Candidate_73,11,"Node.js, MongoDB",B.Sc in IT,Backend Developer
+Candidate_74,9,"Java, Spring",B.Com,Virtual Assistant
+Candidate_75,6,"JavaScript, React",Diploma in CS,Data Analyst
+Candidate_76,14,"Java, Spring",B.Tech in CS,DevOps Engineer
+Candidate_77,14,"Python, SQL, ML",BCA,Backend Developer
+Candidate_78,15,"PHP, Laravel",MBA,Backend Developer
+Candidate_79,13,"R, Statistics",MCA,Virtual Assistant
+Candidate_80,13,"Java, Spring",Diploma in CS,Product Manager
+Candidate_81,0,"Python, SQL, ML",MCA,Product Manager
+Candidate_82,15,"JavaScript, React",B.Com,Frontend Developer
+Candidate_83,4,"R, Statistics",B.Tech in CS,Product Manager
+Candidate_84,8,"Angular, TypeScript",B.Tech in CS,Data Scientist
+Candidate_85,13,"Excel, Admin",B.Tech in CS,Virtual Assistant
+Candidate_86,8,"AWS, DevOps",B.Sc in IT,Data Scientist
+Candidate_87,1,"Excel, Admin",MBA,Frontend Developer
+Candidate_88,11,"AWS, DevOps",B.Sc in IT,Virtual Assistant
+Candidate_89,7,"Java, Spring",MBA,Data Scientist
+Candidate_90,2,"Python, SQL, ML",B.Tech in CS,DevOps Engineer
+Candidate_91,8,"PHP, Laravel",BCA,DevOps Engineer
+Candidate_92,13,"AWS, DevOps",M.Tech,Data Scientist
+Candidate_93,3,"AWS, DevOps",B.Tech in CS,Product Manager
+Candidate_94,6,"Node.js, MongoDB",M.Tech,Frontend Developer
+Candidate_95,4,"Java, Spring",B.Com,Product Manager
+Candidate_96,11,"Node.js, MongoDB",MBA,Frontend Developer
+Candidate_97,11,"R, Statistics",B.Tech in CS,Frontend Developer
+Candidate_98,1,"Excel, Admin",B.Com,Data Analyst
+Candidate_99,13,"C++, IoT",MCA,Data Analyst
+Candidate_100,3,"Node.js, MongoDB",B.Tech in CS,Data Scientist
+Candidate_101,3,"C++, IoT",MCA,Virtual Assistant
+Candidate_102,3,"AWS, DevOps",MBA,Embedded Engineer
+Candidate_103,10,"C++, IoT",B.Sc in IT,Product Manager
+Candidate_104,2,"PHP, Laravel",B.Sc in IT,Data Analyst
+Candidate_105,1,"JavaScript, React",BCA,Data Analyst
+Candidate_106,13,"JavaScript, React",M.Tech,Virtual Assistant
+Candidate_107,9,"Excel, Admin",MCA,Product Manager
+Candidate_108,6,"AWS, DevOps",B.Tech in CS,Virtual Assistant
+Candidate_109,6,"Java, Spring",B.Com,Frontend Developer
+Candidate_110,12,"Python, SQL, ML",MBA,Product Manager
+Candidate_111,3,"PHP, Laravel",B.Sc in IT,Data Analyst
+Candidate_112,11,"PHP, Laravel",BCA,Product Manager
+Candidate_113,2,"Excel, Admin",MCA,Frontend Developer
+Candidate_114,5,"AWS, DevOps",B.Com,DevOps Engineer
+Candidate_115,9,"Excel, Admin",Diploma in CS,Frontend Developer
+Candidate_116,2,"Excel, Admin",M.Tech,Data Analyst
+Candidate_117,13,"Excel, Admin",MCA,Virtual Assistant
+Candidate_118,3,"Python, SQL, ML",MBA,Embedded Engineer
+Candidate_119,12,"Node.js, MongoDB",B.Sc in IT,Virtual Assistant
+Candidate_120,1,"Angular, TypeScript",MBA,Backend Developer
+Candidate_121,14,"AWS, DevOps",B.Sc in IT,Backend Developer
+Candidate_122,2,"PHP, Laravel",B.Tech in CS,Virtual Assistant
+Candidate_123,10,"R, Statistics",MCA,Virtual Assistant
+Candidate_124,2,"Node.js, MongoDB",B.Tech in CS,Data Analyst
+Candidate_125,13,"Excel, Admin",B.Sc in IT,Virtual Assistant
+Candidate_126,2,"JavaScript, React",B.Com,Product Manager
+Candidate_127,8,"AWS, DevOps",BCA,Data Analyst
+Candidate_128,4,"AWS, DevOps",B.Com,Data Analyst
+Candidate_129,14,"PHP, Laravel",MCA,DevOps Engineer
+Candidate_130,10,"Angular, TypeScript",Diploma in CS,Embedded Engineer
+Candidate_131,7,"PHP, Laravel",B.Tech in CS,Embedded Engineer
+Candidate_132,13,"JavaScript, React",B.Com,Product Manager
+Candidate_133,6,"Node.js, MongoDB",MCA,Embedded Engineer
+Candidate_134,15,"Python, SQL, ML",Diploma in CS,Embedded Engineer
+Candidate_135,12,"Node.js, MongoDB",MBA,DevOps Engineer
+Candidate_136,7,"Java, Spring",B.Sc in IT,Frontend Developer
+Candidate_137,5,"JavaScript, React",M.Tech,Frontend Developer
+Candidate_138,3,"Excel, Admin",BCA,Embedded Engineer
+Candidate_139,12,"C++, IoT",BCA,Frontend Developer
+Candidate_140,9,"PHP, Laravel",B.Tech in CS,Product Manager
+Candidate_141,13,"AWS, DevOps",B.Tech in CS,Product Manager
+Candidate_142,4,"C++, IoT",B.Sc in IT,Backend Developer
+Candidate_143,6,"Python, SQL, ML",MCA,Embedded Engineer
+Candidate_144,5,"Excel, Admin",B.Tech in CS,Backend Developer
+Candidate_145,10,"AWS, DevOps",MCA,Embedded Engineer
+Candidate_146,10,"Java, Spring",MCA,Product Manager
+Candidate_147,7,"JavaScript, React",B.Tech in CS,Data Scientist
+Candidate_148,15,"Excel, Admin",B.Tech in CS,Data Scientist
+Candidate_149,13,"Node.js, MongoDB",B.Tech in CS,Frontend Developer
+Candidate_150,3,"AWS, DevOps",B.Sc in IT,Embedded Engineer
+Candidate_151,14,"Java, Spring",BCA,Frontend Developer
+Candidate_152,3,"AWS, DevOps",MCA,DevOps Engineer
+Candidate_153,7,"R, Statistics",MCA,Embedded Engineer
+Candidate_154,0,"JavaScript, React",Diploma in CS,Product Manager
+Candidate_155,9,"Python, SQL, ML",B.Sc in IT,Data Analyst
+Candidate_156,14,"PHP, Laravel",BCA,Backend Developer
+Candidate_157,9,"AWS, DevOps",B.Sc in IT,Product Manager
+Candidate_158,7,"C++, IoT",MCA,Backend Developer
+Candidate_159,8,"Java, Spring",BCA,Product Manager
+Candidate_160,11,"Angular, TypeScript",M.Tech,Backend Developer
+Candidate_161,13,"Excel, Admin",M.Tech,Frontend Developer
+Candidate_162,8,"Java, Spring",MBA,Virtual Assistant
+Candidate_163,5,"Angular, TypeScript",MCA,Frontend Developer
+Candidate_164,14,"PHP, Laravel",M.Tech,Virtual Assistant
+Candidate_165,11,"Python, SQL, ML",Diploma in CS,Data Analyst
+Candidate_166,13,"PHP, Laravel",B.Com,Frontend Developer
+Candidate_167,11,"Angular, TypeScript",B.Sc in IT,Embedded Engineer
+Candidate_168,1,"AWS, DevOps",BCA,Data Analyst
+Candidate_169,5,"R, Statistics",B.Sc in IT,Backend Developer
+Candidate_170,9,"Java, Spring",M.Tech,Frontend Developer
+Candidate_171,14,"AWS, DevOps",M.Tech,Virtual Assistant
+Candidate_172,11,"R, Statistics",M.Tech,Data Analyst
+Candidate_173,0,"Node.js, MongoDB",B.Tech in CS,Product Manager
+Candidate_174,9,"Excel, Admin",MBA,Virtual Assistant
+Candidate_175,1,"Python, SQL, ML",Diploma in CS,DevOps Engineer
+Candidate_176,1,"C++, IoT",BCA,Backend Developer
+Candidate_177,2,"JavaScript, React",Diploma in CS,Frontend Developer
+Candidate_178,14,"Python, SQL, ML",B.Sc in IT,Data Analyst
+Candidate_179,15,"PHP, Laravel",B.Tech in CS,Frontend Developer
+Candidate_180,12,"R, Statistics",M.Tech,Backend Developer
+Candidate_181,11,"Node.js, MongoDB",B.Tech in CS,Product Manager
+Candidate_182,15,"R, Statistics",Diploma in CS,Frontend Developer
+Candidate_183,11,"Python, SQL, ML",M.Tech,Virtual Assistant
+Candidate_184,2,"C++, IoT",MCA,DevOps Engineer
+Candidate_185,9,"Java, Spring",Diploma in CS,DevOps Engineer
+Candidate_186,15,"AWS, DevOps",B.Tech in CS,Data Scientist
+Candidate_187,0,"Java, Spring",B.Tech in CS,Embedded Engineer
+Candidate_188,1,"Angular, TypeScript",Diploma in CS,DevOps Engineer
+Candidate_189,1,"JavaScript, React",B.Com,Virtual Assistant
+Candidate_190,2,"PHP, Laravel",BCA,Data Analyst
+Candidate_191,1,"Python, SQL, ML",BCA,Frontend Developer
+Candidate_192,8,"R, Statistics",MBA,Product Manager
+Candidate_193,7,"Java, Spring",B.Com,Data Analyst
+Candidate_194,13,"R, Statistics",BCA,Backend Developer
+Candidate_195,13,"Angular, TypeScript",MBA,Frontend Developer
+Candidate_196,9,"Node.js, MongoDB",BCA,Frontend Developer
+Candidate_197,3,"Node.js, MongoDB",M.Tech,Product Manager
+Candidate_198,2,"Java, Spring",BCA,Embedded Engineer
+Candidate_199,15,"Python, SQL, ML",MCA,Virtual Assistant
+Candidate_200,14,"R, Statistics",B.Sc in IT,DevOps Engineer
+Candidate_201,2,"AWS, DevOps",B.Tech in CS,Data Scientist
+Candidate_202,9,"PHP, Laravel",B.Tech in CS,Frontend Developer
+Candidate_203,7,"Java, Spring",B.Sc in IT,Backend Developer
+Candidate_204,11,"JavaScript, React",B.Sc in IT,Data Analyst
+Candidate_205,7,"PHP, Laravel",B.Com,DevOps Engineer
+Candidate_206,3,"Python, SQL, ML",BCA,Data Analyst
+Candidate_207,10,"Excel, Admin",MCA,Embedded Engineer
+Candidate_208,14,"Node.js, MongoDB",BCA,Virtual Assistant
+Candidate_209,9,"Angular, TypeScript",B.Sc in IT,Data Scientist
+Candidate_210,5,"Python, SQL, ML",B.Sc in IT,Embedded Engineer
+Candidate_211,10,"Node.js, MongoDB",M.Tech,Frontend Developer
+Candidate_212,4,"Excel, Admin",M.Tech,Embedded Engineer
+Candidate_213,3,"C++, IoT",B.Sc in IT,Virtual Assistant
+Candidate_214,4,"Excel, Admin",MCA,Product Manager
+Candidate_215,10,"Angular, TypeScript",MCA,Data Scientist
+Candidate_216,6,"JavaScript, React",M.Tech,Product Manager
+Candidate_217,8,"JavaScript, React",M.Tech,Embedded Engineer
+Candidate_218,0,"AWS, DevOps",Diploma in CS,Embedded Engineer
+Candidate_219,7,"Node.js, MongoDB",B.Com,Backend Developer
+Candidate_220,12,"JavaScript, React",M.Tech,Backend Developer
+Candidate_221,13,"AWS, DevOps",B.Com,Backend Developer
+Candidate_222,15,"Angular, TypeScript",MBA,Data Scientist
+Candidate_223,1,"JavaScript, React",MBA,Data Scientist
+Candidate_224,1,"PHP, Laravel",B.Com,Data Analyst
+Candidate_225,13,"AWS, DevOps",MBA,DevOps Engineer
+Candidate_226,15,"AWS, DevOps",B.Tech in CS,Backend Developer
+Candidate_227,7,"C++, IoT",MCA,Backend Developer
+Candidate_228,12,"Python, SQL, ML",MBA,DevOps Engineer
+Candidate_229,8,"Python, SQL, ML",M.Tech,Embedded Engineer
+Candidate_230,13,"Angular, TypeScript",BCA,Product Manager
+Candidate_231,14,"Angular, TypeScript",B.Tech in CS,Backend Developer
+Candidate_232,0,"Angular, TypeScript",MCA,Data Scientist
+Candidate_233,9,"R, Statistics",B.Com,Backend Developer
+Candidate_234,14,"Node.js, MongoDB",Diploma in CS,Frontend Developer
+Candidate_235,5,"R, Statistics",BCA,Virtual Assistant
+Candidate_236,12,"Node.js, MongoDB",B.Sc in IT,Data Analyst
+Candidate_237,15,"Angular, TypeScript",MBA,Embedded Engineer
+Candidate_238,13,"R, Statistics",MCA,Data Analyst
+Candidate_239,14,"R, Statistics",MBA,Embedded Engineer
+Candidate_240,2,"C++, IoT",BCA,Embedded Engineer
+Candidate_241,11,"R, Statistics",Diploma in CS,Virtual Assistant
+Candidate_242,14,"Java, Spring",Diploma in CS,Virtual Assistant
+Candidate_243,15,"R, Statistics",BCA,DevOps Engineer
+Candidate_244,4,"R, Statistics",B.Sc in IT,Data Analyst
+Candidate_245,7,"AWS, DevOps",MBA,Virtual Assistant
+Candidate_246,5,"Java, Spring",M.Tech,Frontend Developer
+Candidate_247,7,"R, Statistics",M.Tech,Embedded Engineer
+Candidate_248,5,"Node.js, MongoDB",MCA,Product Manager
+Candidate_249,13,"Python, SQL, ML",MBA,Product Manager
+Candidate_250,2,"JavaScript, React",Diploma in CS,Frontend Developer
+Candidate_251,5,"JavaScript, React",MCA,Embedded Engineer
+Candidate_252,6,"R, Statistics",Diploma in CS,Embedded Engineer
+Candidate_253,1,"AWS, DevOps",B.Sc in IT,Embedded Engineer
+Candidate_254,6,"AWS, DevOps",MCA,Virtual Assistant
+Candidate_255,9,"JavaScript, React",B.Com,DevOps Engineer
+Candidate_256,8,"Java, Spring",M.Tech,Embedded Engineer
+Candidate_257,1,"C++, IoT",Diploma in CS,Backend Developer
+Candidate_258,13,"Angular, TypeScript",B.Sc in IT,DevOps Engineer
+Candidate_259,6,"JavaScript, React",B.Tech in CS,Backend Developer
+Candidate_260,11,"Node.js, MongoDB",MCA,Data Scientist
+Candidate_261,13,"R, Statistics",M.Tech,Backend Developer
+Candidate_262,7,"JavaScript, React",B.Sc in IT,Virtual Assistant
+Candidate_263,1,"PHP, Laravel",M.Tech,Data Scientist
+Candidate_264,4,"Java, Spring",BCA,Backend Developer
+Candidate_265,15,"AWS, DevOps",MCA,DevOps Engineer
+Candidate_266,15,"Python, SQL, ML",MCA,Data Analyst
+Candidate_267,11,"PHP, Laravel",B.Sc in IT,Virtual Assistant
+Candidate_268,12,"AWS, DevOps",B.Com,Backend Developer
+Candidate_269,10,"C++, IoT",MCA,Virtual Assistant
+Candidate_270,5,"AWS, DevOps",MBA,DevOps Engineer
+Candidate_271,12,"JavaScript, React",M.Tech,Product Manager
+Candidate_272,13,"Excel, Admin",B.Tech in CS,Embedded Engineer
+Candidate_273,6,"Python, SQL, ML",MBA,Product Manager
+Candidate_274,4,"Angular, TypeScript",Diploma in CS,Data Analyst
+Candidate_275,3,"C++, IoT",M.Tech,Product Manager
+Candidate_276,13,"R, Statistics",M.Tech,Virtual Assistant
+Candidate_277,9,"Excel, Admin",BCA,Backend Developer
+Candidate_278,13,"R, Statistics",B.Sc in IT,Embedded Engineer
+Candidate_279,13,"PHP, Laravel",Diploma in CS,Virtual Assistant
+Candidate_280,4,"PHP, Laravel",B.Com,Virtual Assistant
+Candidate_281,4,"Node.js, MongoDB",BCA,Backend Developer
+Candidate_282,7,"JavaScript, React",MCA,Virtual Assistant
+Candidate_283,9,"C++, IoT",MCA,Data Analyst
+Candidate_284,15,"Angular, TypeScript",B.Tech in CS,Virtual Assistant
+Candidate_285,1,"Python, SQL, ML",MBA,Frontend Developer
+Candidate_286,9,"AWS, DevOps",B.Com,Backend Developer
+Candidate_287,15,"C++, IoT",MCA,Data Analyst
+Candidate_288,11,"Java, Spring",B.Sc in IT,Embedded Engineer
+Candidate_289,3,"Java, Spring",MCA,Product Manager
+Candidate_290,15,"AWS, DevOps",MBA,Virtual Assistant
+Candidate_291,7,"Angular, TypeScript",M.Tech,Frontend Developer
+Candidate_292,4,"Node.js, MongoDB",MBA,Embedded Engineer
+Candidate_293,12,"Node.js, MongoDB",B.Sc in IT,Embedded Engineer
+Candidate_294,12,"AWS, DevOps",MCA,Frontend Developer
+Candidate_295,11,"Java, Spring",B.Sc in IT,Data Analyst
+Candidate_296,10,"Node.js, MongoDB",MCA,Backend Developer
+Candidate_297,2,"Java, Spring",MCA,DevOps Engineer
+Candidate_298,14,"JavaScript, React",BCA,Embedded Engineer
+Candidate_299,3,"Java, Spring",BCA,Data Scientist
+Candidate_300,8,"Angular, TypeScript",M.Tech,Product Manager
+Candidate_301,14,"PHP, Laravel",BCA,Virtual Assistant
+Candidate_302,8,"PHP, Laravel",B.Sc in IT,Virtual Assistant
+Candidate_303,15,"AWS, DevOps",M.Tech,Frontend Developer
+Candidate_304,10,"Python, SQL, ML",Diploma in CS,Embedded Engineer
+Candidate_305,11,"Python, SQL, ML",MBA,Data Scientist
+Candidate_306,4,"PHP, Laravel",BCA,Data Analyst
+Candidate_307,8,"AWS, DevOps",MCA,Frontend Developer
+Candidate_308,11,"C++, IoT",B.Tech in CS,Data Analyst
+Candidate_309,4,"R, Statistics",B.Com,Data Analyst
+Candidate_310,15,"R, Statistics",MCA,Data Scientist
+Candidate_311,10,"AWS, DevOps",M.Tech,Virtual Assistant
+Candidate_312,12,"Angular, TypeScript",BCA,Product Manager
+Candidate_313,8,"AWS, DevOps",MCA,Data Analyst
+Candidate_314,6,"JavaScript, React",M.Tech,Virtual Assistant
+Candidate_315,2,"R, Statistics",B.Com,DevOps Engineer
+Candidate_316,11,"Java, Spring",M.Tech,Data Analyst
+Candidate_317,7,"Excel, Admin",MBA,Virtual Assistant
+Candidate_318,11,"AWS, DevOps",B.Sc in IT,Virtual Assistant
+Candidate_319,2,"Node.js, MongoDB",B.Com,Backend Developer
+Candidate_320,8,"Java, Spring",M.Tech,Data Scientist
+Candidate_321,14,"R, Statistics",B.Tech in CS,Backend Developer
+Candidate_322,11,"JavaScript, React",BCA,Data Analyst
+Candidate_323,13,"PHP, Laravel",Diploma in CS,Product Manager
+Candidate_324,1,"Node.js, MongoDB",M.Tech,Virtual Assistant
+Candidate_325,1,"Java, Spring",MCA,DevOps Engineer
+Candidate_326,3,"Node.js, MongoDB",B.Sc in IT,Backend Developer
+Candidate_327,14,"Python, SQL, ML",Diploma in CS,Data Scientist
+Candidate_328,9,"AWS, DevOps",B.Com,Data Analyst
+Candidate_329,8,"AWS, DevOps",Diploma in CS,Frontend Developer
+Candidate_330,15,"C++, IoT",BCA,Product Manager
+Candidate_331,12,"Angular, TypeScript",Diploma in CS,Data Scientist
+Candidate_332,7,"Node.js, MongoDB",BCA,Backend Developer
+Candidate_333,6,"Angular, TypeScript",B.Com,Backend Developer
+Candidate_334,11,"Python, SQL, ML",B.Sc in IT,Backend Developer
+Candidate_335,9,"Python, SQL, ML",B.Sc in IT,Backend Developer
+Candidate_336,5,"Java, Spring",B.Tech in CS,Data Scientist
+Candidate_337,5,"JavaScript, React",MBA,Embedded Engineer
+Candidate_338,10,"PHP, Laravel",B.Sc in IT,Data Scientist
+Candidate_339,12,"Java, Spring",M.Tech,Backend Developer
+Candidate_340,13,"PHP, Laravel",B.Sc in IT,DevOps Engineer
+Candidate_341,12,"Python, SQL, ML",M.Tech,Virtual Assistant
+Candidate_342,2,"Java, Spring",B.Sc in IT,Frontend Developer
+Candidate_343,7,"Java, Spring",B.Com,Frontend Developer
+Candidate_344,2,"Node.js, MongoDB",Diploma in CS,Data Scientist
+Candidate_345,9,"AWS, DevOps",M.Tech,Frontend Developer
+Candidate_346,12,"PHP, Laravel",M.Tech,Data Scientist
+Candidate_347,10,"PHP, Laravel",M.Tech,Data Scientist
+Candidate_348,8,"AWS, DevOps",Diploma in CS,DevOps Engineer
+Candidate_349,10,"JavaScript, React",B.Tech in CS,Data Scientist
+Candidate_350,4,"Excel, Admin",BCA,Frontend Developer
+Candidate_351,6,"AWS, DevOps",Diploma in CS,Backend Developer
+Candidate_352,0,"C++, IoT",BCA,Backend Developer
+Candidate_353,5,"AWS, DevOps",M.Tech,Data Scientist
+Candidate_354,1,"AWS, DevOps",M.Tech,Embedded Engineer
+Candidate_355,10,"PHP, Laravel",BCA,Data Scientist
+Candidate_356,11,"C++, IoT",B.Tech in CS,Embedded Engineer
+Candidate_357,13,"C++, IoT",Diploma in CS,Embedded Engineer
+Candidate_358,6,"PHP, Laravel",BCA,Frontend Developer
+Candidate_359,4,"Angular, TypeScript",MBA,Data Analyst
+Candidate_360,13,"Java, Spring",BCA,Frontend Developer
+Candidate_361,0,"Node.js, MongoDB",M.Tech,Data Scientist
+Candidate_362,9,"Angular, TypeScript",M.Tech,DevOps Engineer
+Candidate_363,7,"PHP, Laravel",MCA,Product Manager
+Candidate_364,5,"Excel, Admin",Diploma in CS,Data Scientist
+Candidate_365,10,"Excel, Admin",B.Tech in CS,DevOps Engineer
+Candidate_366,15,"C++, IoT",Diploma in CS,Frontend Developer
+Candidate_367,0,"PHP, Laravel",B.Com,Data Analyst
+Candidate_368,0,"PHP, Laravel",B.Sc in IT,Backend Developer
+Candidate_369,4,"Angular, TypeScript",B.Tech in CS,DevOps Engineer
+Candidate_370,9,"Node.js, MongoDB",B.Sc in IT,Product Manager
+Candidate_371,2,"Python, SQL, ML",MBA,Virtual Assistant
+Candidate_372,0,"Excel, Admin",B.Sc in IT,Product Manager
+Candidate_373,8,"AWS, DevOps",M.Tech,DevOps Engineer
+Candidate_374,4,"JavaScript, React",BCA,Data Analyst
+Candidate_375,5,"R, Statistics",MCA,Data Scientist
+Candidate_376,10,"C++, IoT",B.Tech in CS,Product Manager
+Candidate_377,7,"R, Statistics",M.Tech,Virtual Assistant
+Candidate_378,4,"Angular, TypeScript",Diploma in CS,Product Manager
+Candidate_379,10,"Excel, Admin",Diploma in CS,Backend Developer
+Candidate_380,13,"Python, SQL, ML",MBA,Product Manager
+Candidate_381,2,"R, Statistics",B.Sc in IT,Embedded Engineer
+Candidate_382,7,"C++, IoT",BCA,DevOps Engineer
+Candidate_383,14,"Node.js, MongoDB",BCA,Embedded Engineer
+Candidate_384,6,"Angular, TypeScript",B.Tech in CS,Frontend Developer
+Candidate_385,0,"Java, Spring",B.Tech in CS,Virtual Assistant
+Candidate_386,7,"Excel, Admin",BCA,DevOps Engineer
+Candidate_387,13,"PHP, Laravel",B.Sc in IT,Virtual Assistant
+Candidate_388,3,"C++, IoT",MBA,Embedded Engineer
+Candidate_389,10,"Excel, Admin",B.Tech in CS,Frontend Developer
+Candidate_390,5,"Python, SQL, ML",BCA,Data Analyst
+Candidate_391,14,"R, Statistics",MCA,Frontend Developer
+Candidate_392,15,"C++, IoT",MCA,Backend Developer
+Candidate_393,9,"Angular, TypeScript",B.Com,Frontend Developer
+Candidate_394,2,"PHP, Laravel",B.Com,Embedded Engineer
+Candidate_395,6,"C++, IoT",BCA,Backend Developer
+Candidate_396,6,"Excel, Admin",B.Tech in CS,Embedded Engineer
+Candidate_397,2,"R, Statistics",B.Tech in CS,Embedded Engineer
+Candidate_398,8,"Node.js, MongoDB",M.Tech,Frontend Developer
+Candidate_399,13,"Excel, Admin",MCA,Backend Developer
+Candidate_400,14,"R, Statistics",Diploma in CS,Data Analyst
+Candidate_401,2,"AWS, DevOps",B.Com,Virtual Assistant
+Candidate_402,11,"Excel, Admin",B.Com,Backend Developer
+Candidate_403,7,"C++, IoT",BCA,DevOps Engineer
+Candidate_404,6,"Excel, Admin",B.Sc in IT,Backend Developer
+Candidate_405,15,"C++, IoT",MBA,Frontend Developer
+Candidate_406,15,"Angular, TypeScript",B.Tech in CS,Product Manager
+Candidate_407,4,"Python, SQL, ML",BCA,Virtual Assistant
+Candidate_408,10,"C++, IoT",B.Com,DevOps Engineer
+Candidate_409,10,"C++, IoT",B.Sc in IT,Data Scientist
+Candidate_410,3,"C++, IoT",B.Sc in IT,Embedded Engineer
+Candidate_411,11,"R, Statistics",B.Sc in IT,Backend Developer
+Candidate_412,11,"Java, Spring",B.Sc in IT,Backend Developer
+Candidate_413,12,"C++, IoT",Diploma in CS,Frontend Developer
+Candidate_414,8,"PHP, Laravel",Diploma in CS,Data Analyst
+Candidate_415,2,"Angular, TypeScript",B.Com,Product Manager
+Candidate_416,3,"Node.js, MongoDB",B.Tech in CS,Data Analyst
+Candidate_417,5,"Node.js, MongoDB",M.Tech,Backend Developer
+Candidate_418,2,"Python, SQL, ML",Diploma in CS,Backend Developer
+Candidate_419,14,"PHP, Laravel",MCA,Data Analyst
+Candidate_420,14,"AWS, DevOps",B.Com,Frontend Developer
+Candidate_421,2,"PHP, Laravel",B.Com,Data Analyst
+Candidate_422,1,"PHP, Laravel",B.Tech in CS,Data Scientist
+Candidate_423,3,"Node.js, MongoDB",B.Com,Data Scientist
+Candidate_424,5,"Excel, Admin",B.Sc in IT,Data Analyst
+Candidate_425,13,"AWS, DevOps",MBA,Embedded Engineer
+Candidate_426,5,"R, Statistics",B.Tech in CS,Embedded Engineer
+Candidate_427,13,"JavaScript, React",BCA,Backend Developer
+Candidate_428,13,"Excel, Admin",B.Tech in CS,Embedded Engineer
+Candidate_429,6,"Angular, TypeScript",B.Com,Backend Developer
+Candidate_430,3,"JavaScript, React",MBA,DevOps Engineer
+Candidate_431,6,"R, Statistics",Diploma in CS,Data Analyst
+Candidate_432,2,"Java, Spring",BCA,Product Manager
+Candidate_433,5,"Node.js, MongoDB",M.Tech,Data Analyst
+Candidate_434,0,"Node.js, MongoDB",B.Com,Product Manager
+Candidate_435,13,"AWS, DevOps",MBA,Backend Developer
+Candidate_436,4,"Python, SQL, ML",B.Com,Frontend Developer
+Candidate_437,0,"Python, SQL, ML",B.Com,Embedded Engineer
+Candidate_438,12,"Node.js, MongoDB",B.Sc in IT,Backend Developer
+Candidate_439,9,"Excel, Admin",B.Tech in CS,Product Manager
+Candidate_440,15,"Node.js, MongoDB",MCA,Product Manager
+Candidate_441,7,"Angular, TypeScript",MBA,Frontend Developer
+Candidate_442,5,"AWS, DevOps",B.Tech in CS,Virtual Assistant
+Candidate_443,3,"Angular, TypeScript",Diploma in CS,Backend Developer
+Candidate_444,3,"PHP, Laravel",BCA,Virtual Assistant
+Candidate_445,2,"Node.js, MongoDB",B.Sc in IT,Backend Developer
+Candidate_446,7,"AWS, DevOps",B.Sc in IT,Product Manager
+Candidate_447,4,"Java, Spring",MCA,Frontend Developer
+Candidate_448,7,"Python, SQL, ML",MBA,Data Analyst
+Candidate_449,7,"Excel, Admin",BCA,Backend Developer
+Candidate_450,9,"Excel, Admin",Diploma in CS,DevOps Engineer
+Candidate_451,9,"JavaScript, React",Diploma in CS,Product Manager
+Candidate_452,1,"JavaScript, React",B.Tech in CS,Virtual Assistant
+Candidate_453,14,"Excel, Admin",B.Tech in CS,Frontend Developer
+Candidate_454,14,"Excel, Admin",Diploma in CS,DevOps Engineer
+Candidate_455,9,"C++, IoT",B.Com,Embedded Engineer
+Candidate_456,5,"R, Statistics",B.Sc in IT,Virtual Assistant
+Candidate_457,5,"Excel, Admin",Diploma in CS,Data Scientist
+Candidate_458,14,"R, Statistics",Diploma in CS,Virtual Assistant
+Candidate_459,12,"Angular, TypeScript",M.Tech,Embedded Engineer
+Candidate_460,4,"AWS, DevOps",M.Tech,Backend Developer
+Candidate_461,15,"C++, IoT",B.Tech in CS,Embedded Engineer
+Candidate_462,15,"Java, Spring",BCA,Data Scientist
+Candidate_463,8,"R, Statistics",MBA,Frontend Developer
+Candidate_464,5,"PHP, Laravel",B.Com,DevOps Engineer
+Candidate_465,10,"C++, IoT",Diploma in CS,Backend Developer
+Candidate_466,9,"R, Statistics",MCA,Data Analyst
+Candidate_467,14,"Python, SQL, ML",B.Sc in IT,DevOps Engineer
+Candidate_468,6,"R, Statistics",Diploma in CS,Data Scientist
+Candidate_469,9,"Java, Spring",MCA,Product Manager
+Candidate_470,14,"Java, Spring",B.Sc in IT,Backend Developer
+Candidate_471,5,"Java, Spring",B.Sc in IT,Embedded Engineer
+Candidate_472,11,"Java, Spring",M.Tech,Data Analyst
+Candidate_473,7,"Node.js, MongoDB",BCA,Data Analyst
+Candidate_474,15,"Angular, TypeScript",B.Tech in CS,DevOps Engineer
+Candidate_475,5,"JavaScript, React",MBA,DevOps Engineer
+Candidate_476,14,"C++, IoT",B.Sc in IT,DevOps Engineer
+Candidate_477,0,"Angular, TypeScript",BCA,Data Analyst
+Candidate_478,1,"Java, Spring",M.Tech,Data Analyst
+Candidate_479,2,"Excel, Admin",MBA,Data Scientist
+Candidate_480,11,"C++, IoT",B.Com,DevOps Engineer
+Candidate_481,1,"Excel, Admin",B.Tech in CS,Frontend Developer
+Candidate_482,14,"Python, SQL, ML",B.Sc in IT,Data Analyst
+Candidate_483,13,"C++, IoT",M.Tech,Product Manager
+Candidate_484,8,"AWS, DevOps",B.Sc in IT,Virtual Assistant
+Candidate_485,10,"Python, SQL, ML",MCA,Data Analyst
+Candidate_486,8,"PHP, Laravel",B.Com,Embedded Engineer
+Candidate_487,0,"JavaScript, React",B.Sc in IT,Data Scientist
+Candidate_488,14,"Java, Spring",MCA,Product Manager
+Candidate_489,4,"JavaScript, React",Diploma in CS,Product Manager
+Candidate_490,4,"PHP, Laravel",MCA,Virtual Assistant
+Candidate_491,13,"R, Statistics",Diploma in CS,Embedded Engineer
+Candidate_492,2,"JavaScript, React",B.Com,Data Scientist
+Candidate_493,2,"Angular, TypeScript",B.Tech in CS,Data Scientist
+Candidate_494,3,"Excel, Admin",B.Com,Frontend Developer
+Candidate_495,4,"Excel, Admin",MBA,Virtual Assistant
+Candidate_496,15,"PHP, Laravel",B.Com,Frontend Developer
+Candidate_497,2,"R, Statistics",B.Sc in IT,Backend Developer
+Candidate_498,15,"R, Statistics",BCA,Frontend Developer
+Candidate_499,10,"JavaScript, React",Diploma in CS,Frontend Developer
+Candidate_500,9,"PHP, Laravel",B.Tech in CS,Data Scientist
+Candidate_501,9,"R, Statistics",MCA,Embedded Engineer
+Candidate_502,15,"Angular, TypeScript",MCA,Virtual Assistant
+Candidate_503,10,"Excel, Admin",B.Sc in IT,Product Manager
+Candidate_504,2,"R, Statistics",BCA,Backend Developer
+Candidate_505,7,"Angular, TypeScript",Diploma in CS,Backend Developer
+Candidate_506,0,"PHP, Laravel",M.Tech,Embedded Engineer
+Candidate_507,2,"Python, SQL, ML",MCA,DevOps Engineer
+Candidate_508,5,"Java, Spring",B.Com,DevOps Engineer
+Candidate_509,1,"Node.js, MongoDB",B.Com,Frontend Developer
+Candidate_510,12,"Node.js, MongoDB",Diploma in CS,Backend Developer
+Candidate_511,3,"AWS, DevOps",M.Tech,DevOps Engineer
+Candidate_512,13,"AWS, DevOps",MCA,Backend Developer
+Candidate_513,9,"Python, SQL, ML",MCA,Product Manager
+Candidate_514,3,"C++, IoT",BCA,Data Analyst
+Candidate_515,4,"R, Statistics",MBA,Virtual Assistant
+Candidate_516,13,"Python, SQL, ML",B.Sc in IT,Data Analyst
+Candidate_517,6,"Angular, TypeScript",B.Sc in IT,Virtual Assistant
+Candidate_518,3,"Python, SQL, ML",MBA,Virtual Assistant
+Candidate_519,15,"PHP, Laravel",Diploma in CS,Frontend Developer
+Candidate_520,5,"Node.js, MongoDB",M.Tech,Embedded Engineer
+Candidate_521,15,"Node.js, MongoDB",Diploma in CS,DevOps Engineer
+Candidate_522,13,"JavaScript, React",MBA,Embedded Engineer
+Candidate_523,8,"JavaScript, React",M.Tech,Virtual Assistant
+Candidate_524,0,"AWS, DevOps",MBA,Backend Developer
+Candidate_525,9,"AWS, DevOps",Diploma in CS,Backend Developer
+Candidate_526,6,"JavaScript, React",M.Tech,Backend Developer
+Candidate_527,14,"AWS, DevOps",B.Tech in CS,Virtual Assistant
+Candidate_528,8,"Node.js, MongoDB",B.Com,Backend Developer
+Candidate_529,10,"Java, Spring",BCA,Embedded Engineer
+Candidate_530,3,"Node.js, MongoDB",B.Com,Data Scientist
+Candidate_531,14,"Java, Spring",B.Tech in CS,Product Manager
+Candidate_532,1,"Python, SQL, ML",Diploma in CS,Data Scientist
+Candidate_533,14,"Python, SQL, ML",MBA,Data Analyst
+Candidate_534,6,"PHP, Laravel",MCA,Backend Developer
+Candidate_535,5,"Java, Spring",BCA,DevOps Engineer
+Candidate_536,15,"R, Statistics",B.Tech in CS,Embedded Engineer
+Candidate_537,6,"R, Statistics",B.Tech in CS,Data Analyst
+Candidate_538,12,"Excel, Admin",MBA,Frontend Developer
+Candidate_539,13,"Java, Spring",MCA,Frontend Developer
+Candidate_540,0,"Angular, TypeScript",BCA,Data Scientist
+Candidate_541,4,"AWS, DevOps",B.Com,Product Manager
+Candidate_542,2,"Node.js, MongoDB",MCA,Data Analyst
+Candidate_543,6,"Excel, Admin",BCA,Frontend Developer
+Candidate_544,3,"Java, Spring",MBA,Product Manager
+Candidate_545,11,"PHP, Laravel",B.Tech in CS,Data Analyst
+Candidate_546,12,"Angular, TypeScript",MCA,Data Scientist
+Candidate_547,9,"Python, SQL, ML",B.Com,Embedded Engineer
+Candidate_548,10,"Node.js, MongoDB",MCA,Product Manager
+Candidate_549,12,"R, Statistics",M.Tech,Data Scientist
+Candidate_550,6,"C++, IoT",BCA,Frontend Developer
+Candidate_551,13,"Java, Spring",B.Tech in CS,DevOps Engineer
+Candidate_552,9,"Angular, TypeScript",M.Tech,DevOps Engineer
+Candidate_553,2,"Excel, Admin",B.Com,DevOps Engineer
+Candidate_554,3,"Python, SQL, ML",BCA,DevOps Engineer
+Candidate_555,7,"Node.js, MongoDB",MCA,Backend Developer
+Candidate_556,0,"AWS, DevOps",M.Tech,Frontend Developer
+Candidate_557,5,"Angular, TypeScript",B.Sc in IT,Embedded Engineer
+Candidate_558,12,"Excel, Admin",MCA,DevOps Engineer
+Candidate_559,9,"Python, SQL, ML",Diploma in CS,Embedded Engineer
+Candidate_560,13,"C++, IoT",MBA,Data Analyst
+Candidate_561,11,"R, Statistics",MCA,Data Scientist
+Candidate_562,6,"Angular, TypeScript",B.Tech in CS,Virtual Assistant
+Candidate_563,10,"JavaScript, React",M.Tech,Backend Developer
+Candidate_564,0,"Angular, TypeScript",B.Com,Virtual Assistant
+Candidate_565,10,"Python, SQL, ML",BCA,Embedded Engineer
+Candidate_566,12,"R, Statistics",M.Tech,Data Analyst
+Candidate_567,12,"Excel, Admin",BCA,DevOps Engineer
+Candidate_568,10,"JavaScript, React",M.Tech,Frontend Developer
+Candidate_569,14,"Java, Spring",B.Com,Product Manager
+Candidate_570,2,"C++, IoT",B.Sc in IT,Data Scientist
+Candidate_571,6,"Excel, Admin",B.Tech in CS,DevOps Engineer
+Candidate_572,8,"Python, SQL, ML",B.Sc in IT,Backend Developer
+Candidate_573,4,"Excel, Admin",M.Tech,Product Manager
+Candidate_574,14,"Angular, TypeScript",MBA,Embedded Engineer
+Candidate_575,10,"Java, Spring",MCA,DevOps Engineer
+Candidate_576,12,"Node.js, MongoDB",B.Tech in CS,Product Manager
+Candidate_577,1,"JavaScript, React",BCA,Embedded Engineer
+Candidate_578,12,"R, Statistics",B.Com,Embedded Engineer
+Candidate_579,1,"C++, IoT",Diploma in CS,Data Scientist
+Candidate_580,14,"AWS, DevOps",BCA,DevOps Engineer
+Candidate_581,2,"C++, IoT",BCA,Data Analyst
+Candidate_582,4,"Java, Spring",MCA,Embedded Engineer
+Candidate_583,13,"AWS, DevOps",MCA,Product Manager
+Candidate_584,7,"C++, IoT",B.Com,Backend Developer
+Candidate_585,13,"C++, IoT",MBA,Product Manager
+Candidate_586,0,"Python, SQL, ML",MBA,DevOps Engineer
+Candidate_587,7,"Angular, TypeScript",MCA,Backend Developer
+Candidate_588,3,"JavaScript, React",MCA,Virtual Assistant
+Candidate_589,2,"Node.js, MongoDB",B.Sc in IT,Backend Developer
+Candidate_590,2,"JavaScript, React",MCA,Product Manager
+Candidate_591,13,"C++, IoT",B.Tech in CS,Data Analyst
+Candidate_592,0,"AWS, DevOps",MBA,Backend Developer
+Candidate_593,13,"R, Statistics",BCA,DevOps Engineer
+Candidate_594,6,"Excel, Admin",B.Com,Data Scientist
+Candidate_595,9,"R, Statistics",B.Com,Data Analyst
+Candidate_596,10,"Python, SQL, ML",MCA,Data Analyst
+Candidate_597,7,"PHP, Laravel",Diploma in CS,Data Analyst
+Candidate_598,11,"PHP, Laravel",MBA,Data Analyst
+Candidate_599,0,"JavaScript, React",BCA,Frontend Developer
+Candidate_600,14,"JavaScript, React",B.Tech in CS,Backend Developer
+Candidate_601,6,"PHP, Laravel",B.Tech in CS,Virtual Assistant
+Candidate_602,11,"Excel, Admin",M.Tech,Frontend Developer
+Candidate_603,4,"PHP, Laravel",BCA,Data Analyst
+Candidate_604,15,"AWS, DevOps",B.Tech in CS,Backend Developer
+Candidate_605,7,"R, Statistics",BCA,Embedded Engineer
+Candidate_606,8,"Node.js, MongoDB",MBA,Product Manager
+Candidate_607,5,"C++, IoT",B.Com,Backend Developer
+Candidate_608,8,"C++, IoT",MBA,Data Scientist
+Candidate_609,15,"Python, SQL, ML",B.Sc in IT,Backend Developer
+Candidate_610,13,"R, Statistics",M.Tech,DevOps Engineer
+Candidate_611,9,"R, Statistics",B.Tech in CS,Backend Developer
+Candidate_612,0,"Node.js, MongoDB",MCA,Data Analyst
+Candidate_613,5,"AWS, DevOps",M.Tech,Data Analyst
+Candidate_614,14,"R, Statistics",MCA,Data Analyst
+Candidate_615,1,"AWS, DevOps",B.Sc in IT,Data Scientist
+Candidate_616,11,"R, Statistics",B.Com,Product Manager
+Candidate_617,11,"R, Statistics",Diploma in CS,Product Manager
+Candidate_618,7,"Python, SQL, ML",MBA,Virtual Assistant
+Candidate_619,13,"PHP, Laravel",B.Sc in IT,Embedded Engineer
+Candidate_620,8,"Excel, Admin",B.Com,Data Analyst
+Candidate_621,0,"Python, SQL, ML",B.Com,Virtual Assistant
+Candidate_622,14,"Angular, TypeScript",Diploma in CS,Frontend Developer
+Candidate_623,2,"Excel, Admin",MCA,Data Scientist
+Candidate_624,8,"Angular, TypeScript",B.Com,Virtual Assistant
+Candidate_625,5,"Python, SQL, ML",B.Tech in CS,Data Analyst
+Candidate_626,8,"Node.js, MongoDB",MBA,Product Manager
+Candidate_627,7,"JavaScript, React",B.Tech in CS,Backend Developer
+Candidate_628,4,"Python, SQL, ML",B.Sc in IT,Data Analyst
+Candidate_629,9,"C++, IoT",B.Tech in CS,Backend Developer
+Candidate_630,8,"JavaScript, React",B.Sc in IT,Frontend Developer
+Candidate_631,6,"PHP, Laravel",MBA,Virtual Assistant
+Candidate_632,4,"Angular, TypeScript",B.Tech in CS,Frontend Developer
+Candidate_633,4,"Node.js, MongoDB",Diploma in CS,Virtual Assistant
+Candidate_634,8,"AWS, DevOps",B.Com,Backend Developer
+Candidate_635,3,"Node.js, MongoDB",MCA,Embedded Engineer
+Candidate_636,7,"AWS, DevOps",Diploma in CS,Frontend Developer
+Candidate_637,1,"Node.js, MongoDB",Diploma in CS,Data Scientist
+Candidate_638,2,"Angular, TypeScript",M.Tech,Virtual Assistant
+Candidate_639,15,"PHP, Laravel",B.Sc in IT,Virtual Assistant
+Candidate_640,13,"Python, SQL, ML",BCA,Virtual Assistant
+Candidate_641,5,"JavaScript, React",Diploma in CS,Product Manager
+Candidate_642,14,"Node.js, MongoDB",MBA,Embedded Engineer
+Candidate_643,5,"Java, Spring",BCA,Virtual Assistant
+Candidate_644,8,"PHP, Laravel",M.Tech,Backend Developer
+Candidate_645,5,"C++, IoT",B.Tech in CS,Product Manager
+Candidate_646,6,"R, Statistics",Diploma in CS,Virtual Assistant
+Candidate_647,10,"C++, IoT",M.Tech,Data Scientist
+Candidate_648,9,"Excel, Admin",Diploma in CS,Data Analyst
+Candidate_649,4,"C++, IoT",MCA,Frontend Developer
+Candidate_650,3,"Angular, TypeScript",M.Tech,Embedded Engineer
+Candidate_651,0,"Angular, TypeScript",B.Sc in IT,Product Manager
+Candidate_652,14,"C++, IoT",B.Com,Frontend Developer
+Candidate_653,1,"Java, Spring",Diploma in CS,Backend Developer
+Candidate_654,5,"Excel, Admin",B.Sc in IT,Embedded Engineer
+Candidate_655,15,"Python, SQL, ML",B.Com,Virtual Assistant
+Candidate_656,8,"JavaScript, React",MBA,DevOps Engineer
+Candidate_657,7,"PHP, Laravel",B.Tech in CS,Backend Developer
+Candidate_658,12,"Angular, TypeScript",B.Tech in CS,Data Analyst
+Candidate_659,13,"Angular, TypeScript",M.Tech,Virtual Assistant
+Candidate_660,0,"C++, IoT",B.Tech in CS,Data Scientist
+Candidate_661,14,"Node.js, MongoDB",Diploma in CS,Data Scientist
+Candidate_662,8,"Python, SQL, ML",MBA,Virtual Assistant
+Candidate_663,11,"C++, IoT",M.Tech,Embedded Engineer
+Candidate_664,10,"Excel, Admin",B.Tech in CS,DevOps Engineer
+Candidate_665,2,"R, Statistics",M.Tech,Frontend Developer
+Candidate_666,8,"Java, Spring",B.Com,Product Manager
+Candidate_667,3,"AWS, DevOps",M.Tech,Virtual Assistant
+Candidate_668,15,"Excel, Admin",B.Tech in CS,Data Scientist
+Candidate_669,10,"Angular, TypeScript",MCA,Backend Developer
+Candidate_670,8,"Node.js, MongoDB",B.Tech in CS,DevOps Engineer
+Candidate_671,1,"PHP, Laravel",BCA,Product Manager
+Candidate_672,5,"C++, IoT",B.Com,Backend Developer
+Candidate_673,4,"Angular, TypeScript",B.Sc in IT,Backend Developer
+Candidate_674,11,"C++, IoT",MCA,Embedded Engineer
+Candidate_675,11,"R, Statistics",MCA,Frontend Developer
+Candidate_676,10,"Java, Spring",M.Tech,Embedded Engineer
+Candidate_677,14,"Angular, TypeScript",B.Com,Data Analyst
+Candidate_678,6,"Python, SQL, ML",M.Tech,Product Manager
+Candidate_679,7,"PHP, Laravel",B.Com,Data Scientist
+Candidate_680,6,"Angular, TypeScript",MBA,Backend Developer
+Candidate_681,12,"Python, SQL, ML",B.Com,Backend Developer
+Candidate_682,11,"Angular, TypeScript",MCA,DevOps Engineer
+Candidate_683,15,"Python, SQL, ML",Diploma in CS,Data Scientist
+Candidate_684,9,"C++, IoT",Diploma in CS,Backend Developer
+Candidate_685,2,"PHP, Laravel",B.Sc in IT,Data Analyst
+Candidate_686,0,"Python, SQL, ML",BCA,Virtual Assistant
+Candidate_687,13,"Angular, TypeScript",B.Com,Data Scientist
+Candidate_688,4,"PHP, Laravel",B.Sc in IT,Data Scientist
+Candidate_689,1,"Excel, Admin",Diploma in CS,DevOps Engineer
+Candidate_690,1,"Node.js, MongoDB",Diploma in CS,Virtual Assistant
+Candidate_691,4,"Java, Spring",BCA,Data Scientist
+Candidate_692,5,"Java, Spring",MBA,Backend Developer
+Candidate_693,0,"Angular, TypeScript",MBA,DevOps Engineer
+Candidate_694,0,"Python, SQL, ML",B.Sc in IT,Data Scientist
+Candidate_695,8,"Python, SQL, ML",B.Sc in IT,Product Manager
+Candidate_696,1,"C++, IoT",Diploma in CS,Virtual Assistant
+Candidate_697,6,"Node.js, MongoDB",Diploma in CS,Backend Developer
+Candidate_698,5,"C++, IoT",B.Sc in IT,Data Scientist
+Candidate_699,2,"R, Statistics",BCA,Virtual Assistant
+Candidate_700,12,"JavaScript, React",B.Tech in CS,Virtual Assistant
+Candidate_701,1,"JavaScript, React",M.Tech,Virtual Assistant
+Candidate_702,0,"AWS, DevOps",B.Com,DevOps Engineer
+Candidate_703,10,"AWS, DevOps",B.Com,Virtual Assistant
+Candidate_704,9,"C++, IoT",B.Com,Frontend Developer
+Candidate_705,8,"Python, SQL, ML",MCA,Virtual Assistant
+Candidate_706,14,"Java, Spring",B.Sc in IT,Embedded Engineer
+Candidate_707,4,"Node.js, MongoDB",BCA,Product Manager
+Candidate_708,6,"C++, IoT",B.Tech in CS,Frontend Developer
+Candidate_709,2,"AWS, DevOps",B.Com,DevOps Engineer
+Candidate_710,0,"Node.js, MongoDB",B.Sc in IT,Embedded Engineer
+Candidate_711,5,"Excel, Admin",MCA,Embedded Engineer
+Candidate_712,13,"Python, SQL, ML",MBA,Data Scientist
+Candidate_713,4,"AWS, DevOps",B.Com,Product Manager
+Candidate_714,8,"C++, IoT",MBA,Frontend Developer
+Candidate_715,10,"Node.js, MongoDB",M.Tech,Virtual Assistant
+Candidate_716,2,"Java, Spring",MBA,Data Analyst
+Candidate_717,14,"C++, IoT",BCA,Virtual Assistant
+Candidate_718,3,"Angular, TypeScript",MBA,Data Analyst
+Candidate_719,2,"PHP, Laravel",B.Tech in CS,Embedded Engineer
+Candidate_720,9,"AWS, DevOps",B.Com,Virtual Assistant
+Candidate_721,9,"Excel, Admin",B.Com,Data Analyst
+Candidate_722,8,"Python, SQL, ML",B.Sc in IT,Product Manager
+Candidate_723,11,"PHP, Laravel",MCA,Data Scientist
+Candidate_724,8,"Excel, Admin",B.Sc in IT,Data Analyst
+Candidate_725,14,"AWS, DevOps",M.Tech,DevOps Engineer
+Candidate_726,12,"C++, IoT",MCA,Frontend Developer
+Candidate_727,1,"C++, IoT",B.Com,DevOps Engineer
+Candidate_728,7,"Angular, TypeScript",B.Sc in IT,DevOps Engineer
+Candidate_729,4,"Java, Spring",B.Sc in IT,Frontend Developer
+Candidate_730,1,"R, Statistics",BCA,Product Manager
+Candidate_731,6,"JavaScript, React",BCA,Data Scientist
+Candidate_732,8,"Node.js, MongoDB",M.Tech,Frontend Developer
+Candidate_733,12,"Angular, TypeScript",BCA,Virtual Assistant
+Candidate_734,6,"R, Statistics",MBA,Embedded Engineer
+Candidate_735,1,"JavaScript, React",MCA,Virtual Assistant
+Candidate_736,0,"JavaScript, React",MBA,Virtual Assistant
+Candidate_737,13,"Java, Spring",B.Tech in CS,Embedded Engineer
+Candidate_738,14,"Python, SQL, ML",MCA,Backend Developer
+Candidate_739,2,"Java, Spring",B.Com,Embedded Engineer
+Candidate_740,15,"Excel, Admin",Diploma in CS,DevOps Engineer
+Candidate_741,11,"Java, Spring",MBA,Virtual Assistant
+Candidate_742,7,"AWS, DevOps",B.Sc in IT,DevOps Engineer
+Candidate_743,5,"Angular, TypeScript",MCA,Embedded Engineer
+Candidate_744,5,"Python, SQL, ML",B.Tech in CS,Virtual Assistant
+Candidate_745,7,"Node.js, MongoDB",B.Com,Product Manager
+Candidate_746,7,"Angular, TypeScript",B.Sc in IT,Data Scientist
+Candidate_747,3,"C++, IoT",MBA,Virtual Assistant
+Candidate_748,3,"JavaScript, React",B.Tech in CS,Data Scientist
+Candidate_749,10,"Python, SQL, ML",MCA,Data Scientist
+Candidate_750,11,"JavaScript, React",B.Com,Data Scientist
+Candidate_751,8,"Java, Spring",BCA,Product Manager
+Candidate_752,12,"Angular, TypeScript",Diploma in CS,Data Scientist
+Candidate_753,13,"Angular, TypeScript",M.Tech,Data Analyst
+Candidate_754,8,"Python, SQL, ML",BCA,Virtual Assistant
+Candidate_755,10,"Java, Spring",BCA,Backend Developer
+Candidate_756,0,"Java, Spring",MBA,Frontend Developer
+Candidate_757,8,"Python, SQL, ML",MBA,Frontend Developer
+Candidate_758,6,"Java, Spring",Diploma in CS,Embedded Engineer
+Candidate_759,8,"Angular, TypeScript",M.Tech,Backend Developer
+Candidate_760,8,"Python, SQL, ML",Diploma in CS,Product Manager
+Candidate_761,2,"C++, IoT",Diploma in CS,Data Scientist
+Candidate_762,6,"PHP, Laravel",MCA,Product Manager
+Candidate_763,2,"PHP, Laravel",B.Com,Data Scientist
+Candidate_764,5,"PHP, Laravel",MBA,Data Analyst
+Candidate_765,9,"PHP, Laravel",B.Tech in CS,Frontend Developer
+Candidate_766,14,"C++, IoT",B.Sc in IT,Frontend Developer
+Candidate_767,10,"AWS, DevOps",BCA,Virtual Assistant
+Candidate_768,13,"Python, SQL, ML",B.Sc in IT,Product Manager
+Candidate_769,4,"R, Statistics",B.Sc in IT,Virtual Assistant
+Candidate_770,1,"R, Statistics",MBA,Embedded Engineer
+Candidate_771,6,"JavaScript, React",B.Com,Data Scientist
+Candidate_772,15,"C++, IoT",B.Tech in CS,Data Analyst
+Candidate_773,5,"R, Statistics",MCA,Frontend Developer
+Candidate_774,8,"Angular, TypeScript",B.Tech in CS,Data Scientist
+Candidate_775,14,"AWS, DevOps",BCA,Virtual Assistant
+Candidate_776,5,"Node.js, MongoDB",M.Tech,Data Analyst
+Candidate_777,13,"JavaScript, React",BCA,Backend Developer
+Candidate_778,9,"PHP, Laravel",BCA,Data Analyst
+Candidate_779,7,"Python, SQL, ML",M.Tech,Frontend Developer
+Candidate_780,12,"Excel, Admin",B.Com,Backend Developer
+Candidate_781,14,"C++, IoT",M.Tech,Frontend Developer
+Candidate_782,3,"Excel, Admin",BCA,Data Scientist
+Candidate_783,2,"AWS, DevOps",B.Sc in IT,Product Manager
+Candidate_784,8,"Java, Spring",Diploma in CS,Product Manager
+Candidate_785,3,"Excel, Admin",M.Tech,Backend Developer
+Candidate_786,9,"Python, SQL, ML",Diploma in CS,Data Analyst
+Candidate_787,10,"AWS, DevOps",MBA,Virtual Assistant
+Candidate_788,5,"JavaScript, React",B.Tech in CS,Backend Developer
+Candidate_789,3,"JavaScript, React",B.Com,Virtual Assistant
+Candidate_790,5,"AWS, DevOps",BCA,Data Scientist
+Candidate_791,2,"PHP, Laravel",B.Sc in IT,Product Manager
+Candidate_792,11,"Python, SQL, ML",MCA,DevOps Engineer
+Candidate_793,5,"Node.js, MongoDB",B.Sc in IT,Virtual Assistant
+Candidate_794,3,"PHP, Laravel",BCA,Data Analyst
+Candidate_795,5,"Angular, TypeScript",B.Com,Embedded Engineer
+Candidate_796,7,"JavaScript, React",B.Sc in IT,Data Scientist
+Candidate_797,10,"PHP, Laravel",M.Tech,Backend Developer
+Candidate_798,14,"PHP, Laravel",MCA,Data Analyst
+Candidate_799,4,"AWS, DevOps",MCA,Backend Developer
+Candidate_800,4,"JavaScript, React",Diploma in CS,Data Analyst
+Candidate_801,13,"R, Statistics",B.Sc in IT,Product Manager
+Candidate_802,1,"C++, IoT",BCA,Product Manager
+Candidate_803,3,"JavaScript, React",MBA,Frontend Developer
+Candidate_804,11,"PHP, Laravel",MCA,Embedded Engineer
+Candidate_805,15,"Node.js, MongoDB",BCA,Backend Developer
+Candidate_806,5,"PHP, Laravel",Diploma in CS,Data Analyst
+Candidate_807,13,"Excel, Admin",B.Com,Data Scientist
+Candidate_808,5,"Java, Spring",BCA,Data Scientist
+Candidate_809,8,"Excel, Admin",M.Tech,Frontend Developer
+Candidate_810,4,"C++, IoT",B.Com,Embedded Engineer
+Candidate_811,14,"JavaScript, React",M.Tech,Data Analyst
+Candidate_812,1,"C++, IoT",BCA,DevOps Engineer
+Candidate_813,11,"Python, SQL, ML",MBA,Embedded Engineer
+Candidate_814,2,"Python, SQL, ML",BCA,Product Manager
+Candidate_815,5,"Java, Spring",B.Sc in IT,Virtual Assistant
+Candidate_816,8,"Python, SQL, ML",M.Tech,Embedded Engineer
+Candidate_817,5,"Angular, TypeScript",Diploma in CS,Data Analyst
+Candidate_818,7,"R, Statistics",BCA,Data Analyst
+Candidate_819,6,"Node.js, MongoDB",M.Tech,DevOps Engineer
+Candidate_820,10,"R, Statistics",MBA,Data Analyst
+Candidate_821,11,"Node.js, MongoDB",MCA,Data Analyst
+Candidate_822,10,"Java, Spring",BCA,Data Analyst
+Candidate_823,1,"Excel, Admin",B.Sc in IT,Data Analyst
+Candidate_824,6,"R, Statistics",B.Com,Virtual Assistant
+Candidate_825,13,"PHP, Laravel",MCA,Virtual Assistant
+Candidate_826,14,"Node.js, MongoDB",MCA,Backend Developer
+Candidate_827,13,"C++, IoT",MCA,Frontend Developer
+Candidate_828,10,"AWS, DevOps",B.Sc in IT,Virtual Assistant
+Candidate_829,0,"Java, Spring",B.Com,Backend Developer
+Candidate_830,6,"Python, SQL, ML",MCA,Backend Developer
+Candidate_831,6,"Node.js, MongoDB",MBA,DevOps Engineer
+Candidate_832,14,"Node.js, MongoDB",MCA,Data Analyst
+Candidate_833,9,"Angular, TypeScript",BCA,DevOps Engineer
+Candidate_834,0,"Java, Spring",B.Tech in CS,Data Scientist
+Candidate_835,5,"C++, IoT",B.Tech in CS,Virtual Assistant
+Candidate_836,11,"C++, IoT",MBA,Data Analyst
+Candidate_837,8,"PHP, Laravel",MCA,Embedded Engineer
+Candidate_838,14,"PHP, Laravel",B.Com,Backend Developer
+Candidate_839,12,"Angular, TypeScript",Diploma in CS,Backend Developer
+Candidate_840,5,"Angular, TypeScript",B.Tech in CS,Data Analyst
+Candidate_841,9,"Angular, TypeScript",MCA,Data Analyst
+Candidate_842,5,"R, Statistics",MCA,Product Manager
+Candidate_843,1,"PHP, Laravel",B.Tech in CS,DevOps Engineer
+Candidate_844,8,"Angular, TypeScript",B.Tech in CS,Data Analyst
+Candidate_845,0,"Excel, Admin",BCA,Embedded Engineer
+Candidate_846,12,"Node.js, MongoDB",BCA,Frontend Developer
+Candidate_847,14,"Angular, TypeScript",Diploma in CS,Virtual Assistant
+Candidate_848,0,"Python, SQL, ML",MCA,Product Manager
+Candidate_849,12,"AWS, DevOps",B.Sc in IT,Virtual Assistant
+Candidate_850,13,"R, Statistics",M.Tech,Embedded Engineer
+Candidate_851,4,"Excel, Admin",BCA,DevOps Engineer
+Candidate_852,15,"PHP, Laravel",B.Com,Virtual Assistant
+Candidate_853,5,"Angular, TypeScript",B.Tech in CS,Data Analyst
+Candidate_854,11,"R, Statistics",B.Tech in CS,Product Manager
+Candidate_855,1,"PHP, Laravel",M.Tech,Product Manager
+Candidate_856,13,"Python, SQL, ML",B.Sc in IT,DevOps Engineer
+Candidate_857,4,"JavaScript, React",M.Tech,Product Manager
+Candidate_858,3,"JavaScript, React",B.Tech in CS,Data Analyst
+Candidate_859,0,"Java, Spring",B.Com,DevOps Engineer
+Candidate_860,4,"Java, Spring",MBA,Backend Developer
+Candidate_861,14,"Java, Spring",Diploma in CS,Data Scientist
+Candidate_862,1,"JavaScript, React",Diploma in CS,Product Manager
+Candidate_863,11,"JavaScript, React",B.Sc in IT,Frontend Developer
+Candidate_864,12,"Excel, Admin",B.Tech in CS,DevOps Engineer
+Candidate_865,13,"Node.js, MongoDB",Diploma in CS,Frontend Developer
+Candidate_866,0,"AWS, DevOps",M.Tech,Backend Developer
+Candidate_867,2,"C++, IoT",Diploma in CS,DevOps Engineer
+Candidate_868,2,"R, Statistics",M.Tech,Backend Developer
+Candidate_869,3,"AWS, DevOps",MCA,Frontend Developer
+Candidate_870,14,"Excel, Admin",B.Sc in IT,Embedded Engineer
+Candidate_871,1,"Java, Spring",B.Tech in CS,Product Manager
+Candidate_872,13,"Java, Spring",MCA,Virtual Assistant
+Candidate_873,3,"AWS, DevOps",M.Tech,Data Analyst
+Candidate_874,3,"Python, SQL, ML",BCA,Frontend Developer
+Candidate_875,11,"PHP, Laravel",B.Com,DevOps Engineer
+Candidate_876,14,"JavaScript, React",BCA,Frontend Developer
+Candidate_877,13,"R, Statistics",B.Tech in CS,Data Scientist
+Candidate_878,4,"Python, SQL, ML",Diploma in CS,Embedded Engineer
+Candidate_879,6,"Java, Spring",B.Sc in IT,Backend Developer
+Candidate_880,13,"Node.js, MongoDB",M.Tech,Frontend Developer
+Candidate_881,3,"Angular, TypeScript",B.Tech in CS,Product Manager
+Candidate_882,10,"Node.js, MongoDB",Diploma in CS,Embedded Engineer
+Candidate_883,7,"R, Statistics",M.Tech,DevOps Engineer
+Candidate_884,5,"Excel, Admin",B.Tech in CS,Backend Developer
+Candidate_885,8,"Node.js, MongoDB",B.Sc in IT,Frontend Developer
+Candidate_886,2,"Java, Spring",Diploma in CS,DevOps Engineer
+Candidate_887,2,"Angular, TypeScript",BCA,Data Scientist
+Candidate_888,11,"Python, SQL, ML",B.Com,Backend Developer
+Candidate_889,1,"AWS, DevOps",Diploma in CS,DevOps Engineer
+Candidate_890,1,"Angular, TypeScript",BCA,Data Analyst
+Candidate_891,1,"R, Statistics",B.Tech in CS,Virtual Assistant
+Candidate_892,13,"PHP, Laravel",M.Tech,Data Scientist
+Candidate_893,1,"Angular, TypeScript",M.Tech,Embedded Engineer
+Candidate_894,5,"AWS, DevOps",B.Sc in IT,Frontend Developer
+Candidate_895,3,"AWS, DevOps",MCA,Backend Developer
+Candidate_896,8,"JavaScript, React",M.Tech,Backend Developer
+Candidate_897,9,"R, Statistics",B.Sc in IT,Product Manager
+Candidate_898,2,"Java, Spring",BCA,Virtual Assistant
+Candidate_899,8,"PHP, Laravel",Diploma in CS,Backend Developer
+Candidate_900,14,"Excel, Admin",B.Com,Product Manager
+Candidate_901,3,"Python, SQL, ML",MBA,Product Manager
+Candidate_902,9,"Excel, Admin",B.Com,Embedded Engineer
+Candidate_903,3,"Node.js, MongoDB",Diploma in CS,Data Analyst
+Candidate_904,6,"C++, IoT",MCA,DevOps Engineer
+Candidate_905,15,"Excel, Admin",BCA,Virtual Assistant
+Candidate_906,5,"Angular, TypeScript",B.Tech in CS,DevOps Engineer
+Candidate_907,3,"C++, IoT",M.Tech,DevOps Engineer
+Candidate_908,1,"R, Statistics",MBA,Data Analyst
+Candidate_909,0,"AWS, DevOps",M.Tech,Data Analyst
+Candidate_910,5,"Angular, TypeScript",B.Com,Backend Developer
+Candidate_911,12,"PHP, Laravel",BCA,Virtual Assistant
+Candidate_912,10,"R, Statistics",BCA,Data Scientist
+Candidate_913,9,"R, Statistics",MCA,Backend Developer
+Candidate_914,8,"AWS, DevOps",B.Tech in CS,Product Manager
+Candidate_915,1,"PHP, Laravel",B.Com,Embedded Engineer
+Candidate_916,13,"R, Statistics",M.Tech,Data Scientist
+Candidate_917,1,"Python, SQL, ML",B.Sc in IT,DevOps Engineer
+Candidate_918,13,"PHP, Laravel",Diploma in CS,Product Manager
+Candidate_919,11,"Java, Spring",B.Tech in CS,Embedded Engineer
+Candidate_920,12,"PHP, Laravel",Diploma in CS,DevOps Engineer
+Candidate_921,6,"R, Statistics",B.Sc in IT,Data Scientist
+Candidate_922,12,"Node.js, MongoDB",MCA,Virtual Assistant
+Candidate_923,11,"Java, Spring",MCA,Embedded Engineer
+Candidate_924,11,"Java, Spring",B.Sc in IT,Embedded Engineer
+Candidate_925,9,"Python, SQL, ML",M.Tech,Embedded Engineer
+Candidate_926,0,"R, Statistics",B.Sc in IT,Frontend Developer
+Candidate_927,13,"AWS, DevOps",BCA,Virtual Assistant
+Candidate_928,12,"Angular, TypeScript",Diploma in CS,Backend Developer
+Candidate_929,14,"C++, IoT",M.Tech,DevOps Engineer
+Candidate_930,4,"PHP, Laravel",Diploma in CS,Product Manager
+Candidate_931,12,"JavaScript, React",M.Tech,Frontend Developer
+Candidate_932,1,"R, Statistics",MCA,Virtual Assistant
+Candidate_933,13,"R, Statistics",MCA,Product Manager
+Candidate_934,7,"R, Statistics",M.Tech,Data Scientist
+Candidate_935,15,"JavaScript, React",MCA,DevOps Engineer
+Candidate_936,0,"Excel, Admin",B.Com,DevOps Engineer
+Candidate_937,6,"AWS, DevOps",MCA,Embedded Engineer
+Candidate_938,13,"Python, SQL, ML",M.Tech,Virtual Assistant
+Candidate_939,1,"Angular, TypeScript",M.Tech,DevOps Engineer
+Candidate_940,3,"Python, SQL, ML",M.Tech,DevOps Engineer
+Candidate_941,1,"JavaScript, React",M.Tech,Product Manager
+Candidate_942,5,"R, Statistics",Diploma in CS,Product Manager
+Candidate_943,5,"Java, Spring",MCA,Embedded Engineer
+Candidate_944,1,"JavaScript, React",Diploma in CS,DevOps Engineer
+Candidate_945,3,"Node.js, MongoDB",B.Tech in CS,Frontend Developer
+Candidate_946,11,"C++, IoT",Diploma in CS,Product Manager
+Candidate_947,11,"Python, SQL, ML",BCA,DevOps Engineer
+Candidate_948,5,"Python, SQL, ML",Diploma in CS,Product Manager
+Candidate_949,14,"PHP, Laravel",MCA,Embedded Engineer
+Candidate_950,2,"PHP, Laravel",M.Tech,Data Scientist
+Candidate_951,3,"AWS, DevOps",MBA,Data Scientist
+Candidate_952,0,"C++, IoT",Diploma in CS,Data Scientist
+Candidate_953,6,"Angular, TypeScript",B.Sc in IT,Backend Developer
+Candidate_954,13,"JavaScript, React",B.Com,Embedded Engineer
+Candidate_955,7,"Angular, TypeScript",Diploma in CS,Data Scientist
+Candidate_956,6,"Java, Spring",Diploma in CS,Virtual Assistant
+Candidate_957,15,"Node.js, MongoDB",Diploma in CS,Backend Developer
+Candidate_958,3,"Python, SQL, ML",MBA,Frontend Developer
+Candidate_959,0,"JavaScript, React",Diploma in CS,Frontend Developer
+Candidate_960,2,"Java, Spring",B.Tech in CS,Virtual Assistant
+Candidate_961,13,"Angular, TypeScript",B.Tech in CS,Data Scientist
+Candidate_962,5,"AWS, DevOps",B.Com,Backend Developer
+Candidate_963,8,"Python, SQL, ML",B.Sc in IT,Data Scientist
+Candidate_964,8,"JavaScript, React",BCA,Embedded Engineer
+Candidate_965,15,"R, Statistics",B.Com,Data Analyst
+Candidate_966,11,"C++, IoT",B.Sc in IT,Embedded Engineer
+Candidate_967,10,"C++, IoT",MCA,Backend Developer
+Candidate_968,13,"Java, Spring",BCA,Data Analyst
+Candidate_969,11,"R, Statistics",BCA,Backend Developer
+Candidate_970,4,"JavaScript, React",MBA,Embedded Engineer
+Candidate_971,3,"JavaScript, React",B.Com,Frontend Developer
+Candidate_972,7,"C++, IoT",Diploma in CS,Data Scientist
+Candidate_973,13,"Angular, TypeScript",B.Com,Embedded Engineer
+Candidate_974,6,"AWS, DevOps",B.Com,Product Manager
+Candidate_975,5,"PHP, Laravel",B.Com,Embedded Engineer
+Candidate_976,2,"Python, SQL, ML",Diploma in CS,Embedded Engineer
+Candidate_977,13,"Python, SQL, ML",MBA,Frontend Developer
+Candidate_978,14,"Node.js, MongoDB",BCA,Data Scientist
+Candidate_979,11,"Node.js, MongoDB",B.Sc in IT,DevOps Engineer
+Candidate_980,6,"C++, IoT",BCA,Data Analyst
+Candidate_981,10,"Angular, TypeScript",B.Com,Data Analyst
+Candidate_982,5,"JavaScript, React",B.Tech in CS,Frontend Developer
+Candidate_983,3,"Python, SQL, ML",Diploma in CS,Data Scientist
+Candidate_984,0,"Node.js, MongoDB",Diploma in CS,Frontend Developer
+Candidate_985,9,"Angular, TypeScript",MBA,Backend Developer
+Candidate_986,6,"Java, Spring",MBA,Data Analyst
+Candidate_987,0,"Node.js, MongoDB",M.Tech,DevOps Engineer
+Candidate_988,9,"C++, IoT",Diploma in CS,Embedded Engineer
+Candidate_989,11,"PHP, Laravel",BCA,Virtual Assistant
+Candidate_990,9,"Angular, TypeScript",B.Sc in IT,Backend Developer
+Candidate_991,2,"C++, IoT",M.Tech,Product Manager
+Candidate_992,11,"JavaScript, React",Diploma in CS,DevOps Engineer
+Candidate_993,10,"JavaScript, React",Diploma in CS,Data Scientist
+Candidate_994,15,"Angular, TypeScript",B.Tech in CS,Frontend Developer
+Candidate_995,10,"PHP, Laravel",BCA,Embedded Engineer
+Candidate_996,15,"Python, SQL, ML",MBA,DevOps Engineer
+Candidate_997,4,"R, Statistics",B.Com,Product Manager
+Candidate_998,6,"Angular, TypeScript",BCA,Data Scientist
+Candidate_999,5,"Java, Spring",MBA,DevOps Engineer
+Candidate_1000,9,"C++, IoT",MBA,Frontend Developer
+Candidate_1001,2,"Angular, TypeScript",B.Tech in CS,Embedded Engineer
+Candidate_1002,15,"Excel, Admin",BCA,Virtual Assistant
+Candidate_1003,12,"AWS, DevOps",M.Tech,Data Scientist
+Candidate_1004,1,"C++, IoT",B.Com,Embedded Engineer
+Candidate_1005,14,"PHP, Laravel",B.Sc in IT,Frontend Developer
+Candidate_1006,0,"JavaScript, React",Diploma in CS,Backend Developer
+Candidate_1007,14,"R, Statistics",B.Sc in IT,DevOps Engineer
+Candidate_1008,0,"R, Statistics",B.Com,Backend Developer
+Candidate_1009,3,"AWS, DevOps",Diploma in CS,Virtual Assistant
+Candidate_1010,15,"C++, IoT",M.Tech,Virtual Assistant
+Candidate_1011,10,"Java, Spring",B.Com,Backend Developer
+Candidate_1012,5,"Excel, Admin",B.Com,Backend Developer
+Candidate_1013,1,"Python, SQL, ML",MBA,Frontend Developer
+Candidate_1014,4,"Angular, TypeScript",MBA,Data Analyst
+Candidate_1015,2,"Excel, Admin",BCA,Backend Developer
+Candidate_1016,8,"AWS, DevOps",B.Sc in IT,Virtual Assistant
+Candidate_1017,4,"JavaScript, React",B.Tech in CS,Product Manager
+Candidate_1018,5,"Excel, Admin",M.Tech,Virtual Assistant
+Candidate_1019,10,"JavaScript, React",B.Tech in CS,DevOps Engineer
+Candidate_1020,15,"Angular, TypeScript",BCA,Virtual Assistant
+Candidate_1021,12,"Node.js, MongoDB",M.Tech,Data Scientist
+Candidate_1022,13,"Angular, TypeScript",MBA,Virtual Assistant
+Candidate_1023,10,"AWS, DevOps",MCA,Product Manager
+Candidate_1024,3,"JavaScript, React",MCA,Data Scientist
+Candidate_1025,6,"Angular, TypeScript",Diploma in CS,Embedded Engineer
+Candidate_1026,12,"Node.js, MongoDB",B.Sc in IT,Virtual Assistant
+Candidate_1027,6,"PHP, Laravel",M.Tech,Data Analyst
+Candidate_1028,7,"JavaScript, React",MBA,Virtual Assistant
+Candidate_1029,6,"Python, SQL, ML",MCA,Embedded Engineer
+Candidate_1030,7,"JavaScript, React",B.Sc in IT,Data Analyst
+Candidate_1031,4,"Java, Spring",B.Sc in IT,Virtual Assistant
+Candidate_1032,12,"Node.js, MongoDB",BCA,Embedded Engineer
+Candidate_1033,3,"Excel, Admin",Diploma in CS,Product Manager
+Candidate_1034,12,"PHP, Laravel",Diploma in CS,Frontend Developer
+Candidate_1035,5,"R, Statistics",MCA,Data Scientist
+Candidate_1036,6,"AWS, DevOps",B.Com,Frontend Developer
+Candidate_1037,11,"Excel, Admin",B.Sc in IT,DevOps Engineer
+Candidate_1038,11,"Angular, TypeScript",Diploma in CS,Data Scientist
+Candidate_1039,7,"R, Statistics",MCA,Product Manager
+Candidate_1040,7,"PHP, Laravel",B.Sc in IT,Product Manager
+Candidate_1041,2,"R, Statistics",M.Tech,Frontend Developer
+Candidate_1042,0,"Java, Spring",BCA,Embedded Engineer
+Candidate_1043,7,"Node.js, MongoDB",MBA,Embedded Engineer
+Candidate_1044,13,"JavaScript, React",M.Tech,Frontend Developer
+Candidate_1045,0,"Java, Spring",MBA,Embedded Engineer
+Candidate_1046,4,"Angular, TypeScript",B.Sc in IT,Data Scientist
+Candidate_1047,12,"R, Statistics",M.Tech,DevOps Engineer
+Candidate_1048,14,"PHP, Laravel",Diploma in CS,Data Scientist
+Candidate_1049,14,"R, Statistics",BCA,Frontend Developer
+Candidate_1050,2,"R, Statistics",BCA,Data Analyst
+Candidate_1051,3,"C++, IoT",MBA,Data Scientist
+Candidate_1052,4,"Excel, Admin",B.Sc in IT,Embedded Engineer
+Candidate_1053,4,"PHP, Laravel",B.Com,Frontend Developer
+Candidate_1054,1,"R, Statistics",MBA,Virtual Assistant
+Candidate_1055,5,"Angular, TypeScript",Diploma in CS,Data Analyst
+Candidate_1056,4,"Angular, TypeScript",BCA,Frontend Developer
+Candidate_1057,10,"PHP, Laravel",B.Sc in IT,Frontend Developer
+Candidate_1058,0,"Angular, TypeScript",MCA,Data Analyst
+Candidate_1059,7,"Python, SQL, ML",M.Tech,Virtual Assistant
+Candidate_1060,4,"Excel, Admin",M.Tech,Data Analyst
+Candidate_1061,13,"PHP, Laravel",B.Sc in IT,Backend Developer
+Candidate_1062,2,"Java, Spring",BCA,Virtual Assistant
+Candidate_1063,13,"Java, Spring",BCA,DevOps Engineer
+Candidate_1064,1,"R, Statistics",B.Com,Embedded Engineer
+Candidate_1065,6,"Angular, TypeScript",MBA,Data Scientist
+Candidate_1066,7,"AWS, DevOps",B.Com,DevOps Engineer
+Candidate_1067,13,"PHP, Laravel",B.Tech in CS,Embedded Engineer
+Candidate_1068,1,"JavaScript, React",M.Tech,Data Scientist
+Candidate_1069,10,"Java, Spring",MCA,Virtual Assistant
+Candidate_1070,0,"Node.js, MongoDB",BCA,Backend Developer
+Candidate_1071,8,"Angular, TypeScript",BCA,Virtual Assistant
+Candidate_1072,0,"C++, IoT",BCA,Embedded Engineer
+Candidate_1073,0,"Excel, Admin",M.Tech,Backend Developer
+Candidate_1074,10,"Excel, Admin",BCA,Product Manager
+Candidate_1075,6,"C++, IoT",BCA,Backend Developer
+Candidate_1076,2,"R, Statistics",BCA,Frontend Developer
+Candidate_1077,6,"Node.js, MongoDB",B.Tech in CS,Embedded Engineer
+Candidate_1078,6,"PHP, Laravel",M.Tech,Virtual Assistant
+Candidate_1079,12,"Python, SQL, ML",B.Tech in CS,Backend Developer
+Candidate_1080,2,"JavaScript, React",B.Tech in CS,Data Analyst
+Candidate_1081,15,"JavaScript, React",B.Tech in CS,DevOps Engineer
+Candidate_1082,14,"Python, SQL, ML",M.Tech,Product Manager
+Candidate_1083,3,"Excel, Admin",B.Sc in IT,Embedded Engineer
+Candidate_1084,12,"C++, IoT",Diploma in CS,Product Manager
+Candidate_1085,8,"C++, IoT",Diploma in CS,Frontend Developer
+Candidate_1086,15,"Java, Spring",B.Sc in IT,Virtual Assistant
+Candidate_1087,7,"Python, SQL, ML",B.Sc in IT,Product Manager
+Candidate_1088,14,"Angular, TypeScript",M.Tech,Data Analyst
+Candidate_1089,9,"JavaScript, React",MCA,Embedded Engineer
+Candidate_1090,2,"Node.js, MongoDB",MCA,Product Manager
+Candidate_1091,5,"R, Statistics",MCA,Product Manager
+Candidate_1092,7,"PHP, Laravel",MBA,Product Manager
+Candidate_1093,9,"Java, Spring",Diploma in CS,Product Manager
+Candidate_1094,9,"Node.js, MongoDB",MCA,Frontend Developer
+Candidate_1095,10,"Java, Spring",B.Sc in IT,Backend Developer
+Candidate_1096,4,"C++, IoT",MBA,Virtual Assistant
+Candidate_1097,13,"Excel, Admin",MCA,Frontend Developer
+Candidate_1098,0,"R, Statistics",MBA,Embedded Engineer
+Candidate_1099,6,"AWS, DevOps",M.Tech,Product Manager
+Candidate_1100,14,"C++, IoT",MBA,Virtual Assistant
+Candidate_1101,12,"Python, SQL, ML",MBA,Data Scientist
+Candidate_1102,8,"Excel, Admin",M.Tech,Embedded Engineer
+Candidate_1103,0,"PHP, Laravel",MBA,DevOps Engineer
+Candidate_1104,7,"Python, SQL, ML",BCA,DevOps Engineer
+Candidate_1105,6,"R, Statistics",B.Sc in IT,Frontend Developer
+Candidate_1106,3,"Node.js, MongoDB",Diploma in CS,Backend Developer
+Candidate_1107,0,"Python, SQL, ML",BCA,Data Analyst
+Candidate_1108,2,"C++, IoT",BCA,Data Scientist
+Candidate_1109,8,"Excel, Admin",B.Com,Frontend Developer
+Candidate_1110,10,"Java, Spring",MBA,DevOps Engineer
+Candidate_1111,7,"Java, Spring",BCA,Embedded Engineer
+Candidate_1112,5,"AWS, DevOps",MCA,Data Scientist
+Candidate_1113,15,"Excel, Admin",B.Com,Data Analyst
+Candidate_1114,13,"Python, SQL, ML",B.Sc in IT,Backend Developer
+Candidate_1115,8,"Excel, Admin",B.Tech in CS,Product Manager
+Candidate_1116,5,"PHP, Laravel",Diploma in CS,Embedded Engineer
+Candidate_1117,10,"AWS, DevOps",BCA,Product Manager
+Candidate_1118,3,"AWS, DevOps",BCA,Data Scientist
+Candidate_1119,5,"JavaScript, React",MBA,Backend Developer
+Candidate_1120,4,"R, Statistics",BCA,Data Scientist
+Candidate_1121,5,"C++, IoT",MCA,Virtual Assistant
+Candidate_1122,5,"R, Statistics",M.Tech,Backend Developer
+Candidate_1123,5,"Excel, Admin",B.Sc in IT,Product Manager
+Candidate_1124,15,"Angular, TypeScript",BCA,Backend Developer
+Candidate_1125,6,"Node.js, MongoDB",B.Tech in CS,DevOps Engineer
+Candidate_1126,4,"Java, Spring",B.Sc in IT,Data Analyst
+Candidate_1127,8,"Excel, Admin",MBA,Backend Developer
+Candidate_1128,8,"R, Statistics",B.Com,Data Scientist
+Candidate_1129,4,"Python, SQL, ML",B.Tech in CS,Product Manager
+Candidate_1130,14,"PHP, Laravel",BCA,Data Scientist
+Candidate_1131,15,"Excel, Admin",Diploma in CS,Data Scientist
+Candidate_1132,5,"JavaScript, React",B.Sc in IT,Embedded Engineer
+Candidate_1133,6,"PHP, Laravel",BCA,DevOps Engineer
+Candidate_1134,4,"R, Statistics",B.Sc in IT,DevOps Engineer
+Candidate_1135,4,"Angular, TypeScript",MBA,Data Analyst
+Candidate_1136,12,"Java, Spring",B.Tech in CS,Product Manager
+Candidate_1137,12,"Angular, TypeScript",M.Tech,Product Manager
+Candidate_1138,4,"PHP, Laravel",M.Tech,DevOps Engineer
+Candidate_1139,15,"Angular, TypeScript",MCA,Backend Developer
+Candidate_1140,8,"Excel, Admin",BCA,Product Manager
+Candidate_1141,0,"Node.js, MongoDB",Diploma in CS,Data Analyst
+Candidate_1142,6,"Angular, TypeScript",BCA,Embedded Engineer
+Candidate_1143,13,"Node.js, MongoDB",BCA,Backend Developer
+Candidate_1144,5,"Python, SQL, ML",B.Tech in CS,Embedded Engineer
+Candidate_1145,12,"Excel, Admin",M.Tech,Data Scientist
+Candidate_1146,4,"Java, Spring",M.Tech,Virtual Assistant
+Candidate_1147,1,"Angular, TypeScript",BCA,DevOps Engineer
+Candidate_1148,15,"AWS, DevOps",BCA,Backend Developer
+Candidate_1149,6,"PHP, Laravel",M.Tech,Data Scientist
+Candidate_1150,9,"C++, IoT",B.Com,Frontend Developer
+Candidate_1151,5,"Node.js, MongoDB",MCA,Backend Developer
+Candidate_1152,8,"R, Statistics",B.Sc in IT,Product Manager
+Candidate_1153,13,"R, Statistics",B.Sc in IT,Product Manager
+Candidate_1154,5,"Angular, TypeScript",MBA,Data Scientist
+Candidate_1155,8,"Python, SQL, ML",M.Tech,Embedded Engineer
+Candidate_1156,11,"Angular, TypeScript",B.Tech in CS,Frontend Developer
+Candidate_1157,12,"C++, IoT",B.Tech in CS,Virtual Assistant
+Candidate_1158,14,"Java, Spring",Diploma in CS,Product Manager
+Candidate_1159,1,"Node.js, MongoDB",B.Tech in CS,Backend Developer
+Candidate_1160,8,"C++, IoT",BCA,Data Scientist
+Candidate_1161,12,"Python, SQL, ML",MBA,Data Scientist
+Candidate_1162,13,"Node.js, MongoDB",BCA,Virtual Assistant
+Candidate_1163,13,"R, Statistics",MBA,Data Scientist
+Candidate_1164,15,"JavaScript, React",B.Sc in IT,Frontend Developer
+Candidate_1165,4,"Angular, TypeScript",MCA,Frontend Developer
+Candidate_1166,0,"Excel, Admin",Diploma in CS,Embedded Engineer
+Candidate_1167,3,"C++, IoT",B.Tech in CS,Virtual Assistant
+Candidate_1168,7,"Python, SQL, ML",MBA,Data Analyst
+Candidate_1169,11,"Excel, Admin",Diploma in CS,DevOps Engineer
+Candidate_1170,2,"Python, SQL, ML",MCA,DevOps Engineer
+Candidate_1171,14,"JavaScript, React",Diploma in CS,Product Manager
+Candidate_1172,13,"Excel, Admin",MBA,DevOps Engineer
+Candidate_1173,1,"R, Statistics",B.Tech in CS,Data Scientist
+Candidate_1174,15,"PHP, Laravel",BCA,Data Scientist
+Candidate_1175,11,"JavaScript, React",BCA,Data Scientist
+Candidate_1176,11,"Excel, Admin",M.Tech,Data Scientist
+Candidate_1177,13,"Node.js, MongoDB",M.Tech,Data Scientist
+Candidate_1178,3,"Excel, Admin",B.Tech in CS,DevOps Engineer
+Candidate_1179,13,"R, Statistics",M.Tech,Virtual Assistant
+Candidate_1180,3,"Angular, TypeScript",M.Tech,Frontend Developer
+Candidate_1181,7,"Node.js, MongoDB",B.Sc in IT,Data Analyst
+Candidate_1182,15,"Java, Spring",Diploma in CS,Data Scientist
+Candidate_1183,15,"AWS, DevOps",Diploma in CS,Embedded Engineer
+Candidate_1184,15,"Angular, TypeScript",B.Tech in CS,Product Manager
+Candidate_1185,1,"C++, IoT",MBA,Product Manager
+Candidate_1186,9,"Node.js, MongoDB",B.Tech in CS,Data Scientist
+Candidate_1187,4,"JavaScript, React",B.Com,Product Manager
+Candidate_1188,4,"Angular, TypeScript",Diploma in CS,Data Scientist
+Candidate_1189,9,"R, Statistics",B.Com,Data Scientist
+Candidate_1190,7,"Java, Spring",MCA,Backend Developer
+Candidate_1191,11,"Angular, TypeScript",MCA,Data Analyst
+Candidate_1192,2,"R, Statistics",BCA,Data Scientist
+Candidate_1193,5,"R, Statistics",Diploma in CS,Embedded Engineer
+Candidate_1194,8,"PHP, Laravel",MCA,Product Manager
+Candidate_1195,6,"Node.js, MongoDB",B.Com,Backend Developer
+Candidate_1196,0,"Angular, TypeScript",MBA,Product Manager
+Candidate_1197,6,"R, Statistics",M.Tech,Embedded Engineer
+Candidate_1198,13,"Node.js, MongoDB",B.Sc in IT,Embedded Engineer
+Candidate_1199,8,"Python, SQL, ML",B.Sc in IT,Embedded Engineer
+Candidate_1200,14,"Angular, TypeScript",Diploma in CS,Product Manager
+Candidate_1201,8,"Python, SQL, ML",B.Sc in IT,Product Manager
+Candidate_1202,12,"AWS, DevOps",B.Com,Backend Developer
+Candidate_1203,3,"AWS, DevOps",Diploma in CS,DevOps Engineer
+Candidate_1204,0,"AWS, DevOps",MBA,Backend Developer
+Candidate_1205,10,"R, Statistics",Diploma in CS,Frontend Developer
+Candidate_1206,1,"Node.js, MongoDB",B.Tech in CS,Backend Developer
+Candidate_1207,5,"Excel, Admin",Diploma in CS,DevOps Engineer
+Candidate_1208,6,"PHP, Laravel",MBA,Backend Developer
+Candidate_1209,3,"Node.js, MongoDB",M.Tech,Frontend Developer
+Candidate_1210,5,"Python, SQL, ML",B.Com,DevOps Engineer
+Candidate_1211,12,"Node.js, MongoDB",MBA,Product Manager
+Candidate_1212,7,"Angular, TypeScript",B.Sc in IT,DevOps Engineer
+Candidate_1213,9,"Python, SQL, ML",M.Tech,Product Manager
+Candidate_1214,10,"Node.js, MongoDB",Diploma in CS,Data Analyst
+Candidate_1215,3,"Node.js, MongoDB",B.Sc in IT,Embedded Engineer
+Candidate_1216,14,"JavaScript, React",M.Tech,Product Manager
+Candidate_1217,8,"PHP, Laravel",M.Tech,Data Analyst
+Candidate_1218,3,"AWS, DevOps",M.Tech,Frontend Developer
+Candidate_1219,13,"Node.js, MongoDB",B.Tech in CS,Embedded Engineer
+Candidate_1220,15,"JavaScript, React",B.Com,DevOps Engineer
+Candidate_1221,1,"JavaScript, React",B.Sc in IT,Data Scientist
+Candidate_1222,6,"AWS, DevOps",MBA,Frontend Developer
+Candidate_1223,14,"JavaScript, React",B.Sc in IT,Data Analyst
+Candidate_1224,8,"Angular, TypeScript",B.Sc in IT,Backend Developer
+Candidate_1225,10,"Node.js, MongoDB",Diploma in CS,Backend Developer
+Candidate_1226,9,"Node.js, MongoDB",B.Com,Frontend Developer
+Candidate_1227,2,"JavaScript, React",B.Sc in IT,Virtual Assistant
+Candidate_1228,3,"Excel, Admin",B.Sc in IT,Virtual Assistant
+Candidate_1229,12,"Node.js, MongoDB",MBA,DevOps Engineer
+Candidate_1230,8,"Excel, Admin",B.Sc in IT,Backend Developer
+Candidate_1231,12,"Excel, Admin",M.Tech,Data Analyst
+Candidate_1232,3,"Angular, TypeScript",MBA,Data Analyst
+Candidate_1233,12,"AWS, DevOps",Diploma in CS,Virtual Assistant
+Candidate_1234,14,"AWS, DevOps",M.Tech,Virtual Assistant
+Candidate_1235,6,"AWS, DevOps",Diploma in CS,Data Analyst
+Candidate_1236,3,"Excel, Admin",BCA,Embedded Engineer
+Candidate_1237,4,"Angular, TypeScript",B.Tech in CS,Virtual Assistant
+Candidate_1238,1,"R, Statistics",MBA,Backend Developer
+Candidate_1239,2,"PHP, Laravel",MCA,Virtual Assistant
+Candidate_1240,7,"JavaScript, React",B.Tech in CS,Data Analyst
+Candidate_1241,13,"Node.js, MongoDB",MBA,Embedded Engineer
+Candidate_1242,1,"Angular, TypeScript",B.Tech in CS,DevOps Engineer
+Candidate_1243,10,"AWS, DevOps",B.Sc in IT,Backend Developer
+Candidate_1244,5,"Excel, Admin",BCA,Data Scientist
+Candidate_1245,14,"Java, Spring",B.Sc in IT,Product Manager
+Candidate_1246,2,"Angular, TypeScript",B.Com,Data Scientist
+Candidate_1247,2,"JavaScript, React",B.Sc in IT,DevOps Engineer
+Candidate_1248,13,"Node.js, MongoDB",MBA,Product Manager
+Candidate_1249,4,"Angular, TypeScript",BCA,Frontend Developer
+Candidate_1250,9,"R, Statistics",Diploma in CS,Embedded Engineer
+Candidate_1251,15,"C++, IoT",MCA,Virtual Assistant
+Candidate_1252,8,"C++, IoT",M.Tech,DevOps Engineer
+Candidate_1253,13,"R, Statistics",M.Tech,Data Scientist
+Candidate_1254,11,"Node.js, MongoDB",MCA,Data Analyst
+Candidate_1255,12,"C++, IoT",B.Com,Backend Developer
+Candidate_1256,0,"AWS, DevOps",MBA,Embedded Engineer
+Candidate_1257,10,"Excel, Admin",B.Com,DevOps Engineer
+Candidate_1258,8,"Node.js, MongoDB",B.Tech in CS,DevOps Engineer
+Candidate_1259,4,"JavaScript, React",MBA,Virtual Assistant
+Candidate_1260,2,"PHP, Laravel",B.Tech in CS,Data Scientist
+Candidate_1261,0,"C++, IoT",M.Tech,Data Scientist
+Candidate_1262,12,"AWS, DevOps",M.Tech,Data Analyst
+Candidate_1263,10,"Angular, TypeScript",B.Com,Backend Developer
+Candidate_1264,14,"Python, SQL, ML",Diploma in CS,Product Manager
+Candidate_1265,11,"Excel, Admin",Diploma in CS,Product Manager
+Candidate_1266,13,"PHP, Laravel",B.Tech in CS,Data Analyst
+Candidate_1267,8,"JavaScript, React",M.Tech,Product Manager
+Candidate_1268,14,"C++, IoT",BCA,Virtual Assistant
+Candidate_1269,11,"AWS, DevOps",MBA,Data Scientist
+Candidate_1270,6,"JavaScript, React",MBA,Data Analyst
+Candidate_1271,13,"AWS, DevOps",M.Tech,Product Manager
+Candidate_1272,10,"R, Statistics",B.Tech in CS,Virtual Assistant
+Candidate_1273,4,"AWS, DevOps",MCA,Data Scientist
+Candidate_1274,5,"R, Statistics",B.Com,DevOps Engineer
+Candidate_1275,1,"Node.js, MongoDB",B.Com,Embedded Engineer
+Candidate_1276,12,"Excel, Admin",M.Tech,Frontend Developer
+Candidate_1277,6,"PHP, Laravel",MBA,Data Scientist
+Candidate_1278,2,"JavaScript, React",MBA,Embedded Engineer
+Candidate_1279,5,"C++, IoT",BCA,Backend Developer
+Candidate_1280,13,"Angular, TypeScript",B.Com,Backend Developer
+Candidate_1281,3,"JavaScript, React",B.Tech in CS,Data Scientist
+Candidate_1282,5,"R, Statistics",BCA,Frontend Developer
+Candidate_1283,4,"R, Statistics",MBA,Data Analyst
+Candidate_1284,9,"Python, SQL, ML",B.Sc in IT,Product Manager
+Candidate_1285,10,"R, Statistics",BCA,DevOps Engineer
+Candidate_1286,10,"Node.js, MongoDB",M.Tech,Data Scientist
+Candidate_1287,3,"Java, Spring",M.Tech,Virtual Assistant
+Candidate_1288,1,"Angular, TypeScript",MCA,DevOps Engineer
+Candidate_1289,7,"Node.js, MongoDB",Diploma in CS,Backend Developer
+Candidate_1290,13,"Java, Spring",Diploma in CS,Backend Developer
+Candidate_1291,3,"JavaScript, React",MCA,Virtual Assistant
+Candidate_1292,13,"Node.js, MongoDB",MCA,Backend Developer
+Candidate_1293,11,"Python, SQL, ML",M.Tech,Data Analyst
+Candidate_1294,6,"Angular, TypeScript",MBA,Embedded Engineer
+Candidate_1295,7,"Angular, TypeScript",B.Sc in IT,Data Analyst
+Candidate_1296,8,"Java, Spring",B.Tech in CS,Data Scientist
+Candidate_1297,6,"Excel, Admin",Diploma in CS,Backend Developer
+Candidate_1298,1,"R, Statistics",BCA,Backend Developer
+Candidate_1299,3,"C++, IoT",B.Sc in IT,Product Manager
+Candidate_1300,3,"JavaScript, React",B.Com,Backend Developer
+Candidate_1301,14,"Excel, Admin",BCA,DevOps Engineer
+Candidate_1302,15,"Python, SQL, ML",MBA,Backend Developer
+Candidate_1303,7,"PHP, Laravel",B.Sc in IT,Virtual Assistant
+Candidate_1304,9,"AWS, DevOps",B.Com,Product Manager
+Candidate_1305,15,"AWS, DevOps",MBA,Frontend Developer
+Candidate_1306,10,"Angular, TypeScript",BCA,Product Manager
+Candidate_1307,0,"JavaScript, React",MCA,Data Analyst
+Candidate_1308,3,"JavaScript, React",B.Tech in CS,Virtual Assistant
+Candidate_1309,1,"Java, Spring",MCA,Data Scientist
+Candidate_1310,14,"Angular, TypeScript",MCA,Virtual Assistant
+Candidate_1311,7,"Python, SQL, ML",Diploma in CS,Frontend Developer
+Candidate_1312,0,"AWS, DevOps",MCA,DevOps Engineer
+Candidate_1313,5,"Excel, Admin",B.Tech in CS,Frontend Developer
+Candidate_1314,6,"PHP, Laravel",MCA,Virtual Assistant
+Candidate_1315,1,"R, Statistics",BCA,Frontend Developer
+Candidate_1316,3,"Excel, Admin",Diploma in CS,Data Scientist
+Candidate_1317,14,"C++, IoT",Diploma in CS,Product Manager
+Candidate_1318,2,"Java, Spring",Diploma in CS,Frontend Developer
+Candidate_1319,2,"Excel, Admin",BCA,Data Scientist
+Candidate_1320,5,"R, Statistics",BCA,Embedded Engineer
+Candidate_1321,13,"JavaScript, React",BCA,DevOps Engineer
+Candidate_1322,11,"Angular, TypeScript",B.Sc in IT,Data Analyst
+Candidate_1323,15,"R, Statistics",B.Sc in IT,Virtual Assistant
+Candidate_1324,8,"Python, SQL, ML",B.Tech in CS,DevOps Engineer
+Candidate_1325,5,"JavaScript, React",B.Tech in CS,Data Scientist
+Candidate_1326,4,"Node.js, MongoDB",B.Sc in IT,Frontend Developer
+Candidate_1327,12,"R, Statistics",MBA,Frontend Developer
+Candidate_1328,1,"Python, SQL, ML",B.Com,Data Analyst
+Candidate_1329,11,"JavaScript, React",Diploma in CS,Product Manager
+Candidate_1330,12,"C++, IoT",MBA,Backend Developer
+Candidate_1331,6,"C++, IoT",M.Tech,Embedded Engineer
+Candidate_1332,8,"Node.js, MongoDB",B.Sc in IT,Data Scientist
+Candidate_1333,11,"Java, Spring",MBA,Data Analyst
+Candidate_1334,13,"Java, Spring",M.Tech,DevOps Engineer
+Candidate_1335,2,"R, Statistics",MCA,Virtual Assistant
+Candidate_1336,5,"Excel, Admin",B.Sc in IT,Virtual Assistant
+Candidate_1337,15,"AWS, DevOps",Diploma in CS,Embedded Engineer
+Candidate_1338,3,"AWS, DevOps",B.Sc in IT,DevOps Engineer
+Candidate_1339,0,"PHP, Laravel",BCA,Embedded Engineer
+Candidate_1340,11,"Angular, TypeScript",B.Com,Data Scientist
+Candidate_1341,9,"PHP, Laravel",MCA,Data Scientist
+Candidate_1342,7,"PHP, Laravel",M.Tech,Backend Developer
+Candidate_1343,12,"Python, SQL, ML",B.Tech in CS,Data Scientist
+Candidate_1344,1,"C++, IoT",B.Sc in IT,Frontend Developer
+Candidate_1345,5,"PHP, Laravel",M.Tech,Data Analyst
+Candidate_1346,0,"Node.js, MongoDB",Diploma in CS,Embedded Engineer
+Candidate_1347,2,"R, Statistics",B.Tech in CS,Embedded Engineer
+Candidate_1348,11,"Angular, TypeScript",B.Tech in CS,Frontend Developer
+Candidate_1349,0,"AWS, DevOps",BCA,Virtual Assistant
+Candidate_1350,0,"Excel, Admin",B.Tech in CS,Embedded Engineer
+Candidate_1351,0,"Java, Spring",B.Tech in CS,DevOps Engineer
+Candidate_1352,5,"C++, IoT",M.Tech,Data Scientist
+Candidate_1353,14,"Node.js, MongoDB",B.Sc in IT,Frontend Developer
+Candidate_1354,3,"PHP, Laravel",MBA,Data Analyst
+Candidate_1355,7,"AWS, DevOps",B.Tech in CS,Frontend Developer
+Candidate_1356,13,"C++, IoT",MBA,Virtual Assistant
+Candidate_1357,6,"C++, IoT",B.Tech in CS,Embedded Engineer
+Candidate_1358,15,"Node.js, MongoDB",B.Sc in IT,Virtual Assistant
+Candidate_1359,11,"Angular, TypeScript",Diploma in CS,Product Manager
+Candidate_1360,14,"Angular, TypeScript",B.Sc in IT,Frontend Developer
+Candidate_1361,11,"Excel, Admin",B.Com,Backend Developer
+Candidate_1362,6,"Excel, Admin",M.Tech,Backend Developer
+Candidate_1363,10,"Excel, Admin",MBA,Backend Developer
+Candidate_1364,2,"Excel, Admin",MCA,Data Analyst
+Candidate_1365,11,"C++, IoT",M.Tech,Backend Developer
+Candidate_1366,10,"Node.js, MongoDB",Diploma in CS,Data Scientist
+Candidate_1367,11,"C++, IoT",MBA,Data Analyst
+Candidate_1368,11,"Angular, TypeScript",MCA,Data Analyst
+Candidate_1369,14,"Excel, Admin",M.Tech,Virtual Assistant
+Candidate_1370,0,"Angular, TypeScript",B.Tech in CS,Data Analyst
+Candidate_1371,13,"PHP, Laravel",Diploma in CS,Product Manager
+Candidate_1372,11,"Excel, Admin",B.Com,Data Analyst
+Candidate_1373,15,"R, Statistics",B.Tech in CS,Virtual Assistant
+Candidate_1374,12,"C++, IoT",BCA,Frontend Developer
+Candidate_1375,13,"AWS, DevOps",B.Tech in CS,Embedded Engineer
+Candidate_1376,14,"Node.js, MongoDB",B.Com,Data Analyst
+Candidate_1377,1,"AWS, DevOps",B.Tech in CS,Virtual Assistant
+Candidate_1378,2,"PHP, Laravel",BCA,DevOps Engineer
+Candidate_1379,8,"Java, Spring",B.Sc in IT,Frontend Developer
+Candidate_1380,4,"R, Statistics",MBA,Product Manager
+Candidate_1381,12,"Python, SQL, ML",B.Com,Backend Developer
+Candidate_1382,4,"Angular, TypeScript",MCA,DevOps Engineer
+Candidate_1383,6,"Angular, TypeScript",B.Tech in CS,Product Manager
+Candidate_1384,0,"C++, IoT",M.Tech,DevOps Engineer
+Candidate_1385,7,"Node.js, MongoDB",B.Com,Data Scientist
+Candidate_1386,2,"R, Statistics",B.Sc in IT,Virtual Assistant
+Candidate_1387,12,"JavaScript, React",B.Com,Backend Developer
+Candidate_1388,15,"C++, IoT",B.Tech in CS,Frontend Developer
+Candidate_1389,4,"Java, Spring",B.Sc in IT,Frontend Developer
+Candidate_1390,14,"AWS, DevOps",MBA,Data Analyst
+Candidate_1391,4,"Node.js, MongoDB",BCA,DevOps Engineer
+Candidate_1392,10,"Python, SQL, ML",B.Com,Data Analyst
+Candidate_1393,15,"PHP, Laravel",MCA,Virtual Assistant
+Candidate_1394,10,"Angular, TypeScript",Diploma in CS,Backend Developer
+Candidate_1395,7,"PHP, Laravel",M.Tech,Data Scientist
+Candidate_1396,7,"Java, Spring",M.Tech,Data Scientist
+Candidate_1397,13,"Python, SQL, ML",M.Tech,Product Manager
+Candidate_1398,15,"R, Statistics",BCA,DevOps Engineer
+Candidate_1399,7,"Angular, TypeScript",BCA,Frontend Developer
+Candidate_1400,10,"R, Statistics",B.Sc in IT,Frontend Developer
+Candidate_1401,3,"JavaScript, React",Diploma in CS,Virtual Assistant
+Candidate_1402,0,"Node.js, MongoDB",B.Tech in CS,Data Analyst
+Candidate_1403,11,"JavaScript, React",B.Sc in IT,Frontend Developer
+Candidate_1404,6,"AWS, DevOps",MBA,Data Analyst
+Candidate_1405,8,"Python, SQL, ML",BCA,Frontend Developer
+Candidate_1406,2,"C++, IoT",B.Sc in IT,Frontend Developer
+Candidate_1407,1,"PHP, Laravel",B.Sc in IT,Virtual Assistant
+Candidate_1408,0,"C++, IoT",BCA,Data Analyst
+Candidate_1409,9,"Java, Spring",B.Tech in CS,Product Manager
+Candidate_1410,14,"AWS, DevOps",M.Tech,Backend Developer
+Candidate_1411,4,"Java, Spring",B.Sc in IT,Backend Developer
+Candidate_1412,2,"Angular, TypeScript",B.Com,DevOps Engineer
+Candidate_1413,0,"Java, Spring",MCA,Product Manager
+Candidate_1414,5,"PHP, Laravel",M.Tech,Virtual Assistant
+Candidate_1415,4,"Python, SQL, ML",BCA,Product Manager
+Candidate_1416,6,"C++, IoT",B.Tech in CS,Virtual Assistant
+Candidate_1417,5,"Angular, TypeScript",B.Sc in IT,Backend Developer
+Candidate_1418,15,"Node.js, MongoDB",MBA,Data Analyst
+Candidate_1419,0,"Node.js, MongoDB",B.Tech in CS,Virtual Assistant
+Candidate_1420,15,"JavaScript, React",MBA,Backend Developer
+Candidate_1421,8,"PHP, Laravel",B.Com,Embedded Engineer
+Candidate_1422,9,"Node.js, MongoDB",B.Tech in CS,Frontend Developer
+Candidate_1423,8,"PHP, Laravel",BCA,DevOps Engineer
+Candidate_1424,0,"JavaScript, React",Diploma in CS,DevOps Engineer
+Candidate_1425,2,"C++, IoT",B.Com,Data Analyst
+Candidate_1426,11,"Angular, TypeScript",MBA,Data Analyst
+Candidate_1427,11,"Java, Spring",MBA,Frontend Developer
+Candidate_1428,14,"Java, Spring",B.Tech in CS,Embedded Engineer
+Candidate_1429,3,"Python, SQL, ML",BCA,Data Scientist
+Candidate_1430,12,"Angular, TypeScript",BCA,Frontend Developer
+Candidate_1431,1,"Python, SQL, ML",B.Com,DevOps Engineer
+Candidate_1432,2,"R, Statistics",BCA,Backend Developer
+Candidate_1433,1,"Python, SQL, ML",M.Tech,Virtual Assistant
+Candidate_1434,4,"C++, IoT",B.Sc in IT,Backend Developer
+Candidate_1435,14,"Java, Spring",Diploma in CS,Backend Developer
+Candidate_1436,9,"C++, IoT",MCA,Embedded Engineer
+Candidate_1437,11,"Python, SQL, ML",MBA,Data Analyst
+Candidate_1438,10,"JavaScript, React",Diploma in CS,Frontend Developer
+Candidate_1439,11,"Java, Spring",BCA,DevOps Engineer
+Candidate_1440,2,"Excel, Admin",M.Tech,Virtual Assistant
+Candidate_1441,8,"Angular, TypeScript",B.Tech in CS,Frontend Developer
+Candidate_1442,5,"PHP, Laravel",MCA,Backend Developer
+Candidate_1443,0,"Excel, Admin",B.Tech in CS,Embedded Engineer
+Candidate_1444,8,"Angular, TypeScript",B.Sc in IT,Data Analyst
+Candidate_1445,3,"AWS, DevOps",BCA,Data Analyst
+Candidate_1446,15,"AWS, DevOps",B.Sc in IT,DevOps Engineer
+Candidate_1447,14,"AWS, DevOps",BCA,Frontend Developer
+Candidate_1448,0,"Node.js, MongoDB",Diploma in CS,Product Manager
+Candidate_1449,9,"Excel, Admin",MCA,Product Manager
+Candidate_1450,7,"AWS, DevOps",M.Tech,Product Manager
+Candidate_1451,7,"AWS, DevOps",B.Sc in IT,Product Manager
+Candidate_1452,5,"C++, IoT",B.Com,Backend Developer
+Candidate_1453,12,"Node.js, MongoDB",Diploma in CS,Frontend Developer
+Candidate_1454,10,"PHP, Laravel",BCA,Product Manager
+Candidate_1455,5,"Excel, Admin",B.Sc in IT,Product Manager
+Candidate_1456,14,"JavaScript, React",MBA,Embedded Engineer
+Candidate_1457,13,"Excel, Admin",Diploma in CS,Frontend Developer
+Candidate_1458,2,"Java, Spring",B.Sc in IT,Embedded Engineer
+Candidate_1459,8,"Angular, TypeScript",MCA,DevOps Engineer
+Candidate_1460,8,"R, Statistics",MCA,Product Manager
+Candidate_1461,12,"Node.js, MongoDB",MCA,Data Scientist
+Candidate_1462,2,"Angular, TypeScript",MCA,Embedded Engineer
+Candidate_1463,9,"JavaScript, React",Diploma in CS,Embedded Engineer
+Candidate_1464,0,"Angular, TypeScript",B.Com,Data Analyst
+Candidate_1465,5,"Excel, Admin",B.Sc in IT,Embedded Engineer
+Candidate_1466,6,"PHP, Laravel",B.Com,Embedded Engineer
+Candidate_1467,1,"Java, Spring",MBA,Embedded Engineer
+Candidate_1468,6,"Node.js, MongoDB",B.Com,Virtual Assistant
+Candidate_1469,4,"C++, IoT",B.Tech in CS,Embedded Engineer
+Candidate_1470,13,"Python, SQL, ML",Diploma in CS,DevOps Engineer
+Candidate_1471,11,"PHP, Laravel",B.Sc in IT,Virtual Assistant
+Candidate_1472,11,"Angular, TypeScript",MCA,Embedded Engineer
+Candidate_1473,14,"Java, Spring",Diploma in CS,Data Scientist
+Candidate_1474,8,"Node.js, MongoDB",Diploma in CS,Backend Developer
+Candidate_1475,13,"PHP, Laravel",MBA,Embedded Engineer
+Candidate_1476,14,"C++, IoT",B.Tech in CS,DevOps Engineer
+Candidate_1477,9,"Node.js, MongoDB",M.Tech,Embedded Engineer
+Candidate_1478,10,"PHP, Laravel",B.Com,Product Manager
+Candidate_1479,3,"Angular, TypeScript",Diploma in CS,Frontend Developer
+Candidate_1480,3,"Node.js, MongoDB",Diploma in CS,DevOps Engineer
+Candidate_1481,9,"JavaScript, React",B.Tech in CS,Embedded Engineer
+Candidate_1482,12,"Angular, TypeScript",B.Tech in CS,Embedded Engineer
+Candidate_1483,7,"Python, SQL, ML",MBA,Embedded Engineer
+Candidate_1484,7,"Excel, Admin",B.Sc in IT,Data Analyst
+Candidate_1485,0,"Node.js, MongoDB",B.Tech in CS,Frontend Developer
+Candidate_1486,12,"JavaScript, React",MCA,DevOps Engineer
+Candidate_1487,5,"Java, Spring",M.Tech,Frontend Developer
+Candidate_1488,9,"Excel, Admin",B.Com,Data Scientist
+Candidate_1489,0,"PHP, Laravel",B.Sc in IT,DevOps Engineer
+Candidate_1490,2,"AWS, DevOps",MCA,Product Manager
+Candidate_1491,0,"JavaScript, React",MCA,Data Analyst
+Candidate_1492,8,"PHP, Laravel",B.Com,Embedded Engineer
+Candidate_1493,3,"Excel, Admin",B.Tech in CS,Data Scientist
+Candidate_1494,10,"Excel, Admin",B.Tech in CS,Embedded Engineer
+Candidate_1495,15,"Python, SQL, ML",BCA,Virtual Assistant
+Candidate_1496,14,"R, Statistics",B.Sc in IT,Frontend Developer
+Candidate_1497,2,"Excel, Admin",Diploma in CS,Frontend Developer
+Candidate_1498,15,"C++, IoT",BCA,Embedded Engineer
+Candidate_1499,2,"PHP, Laravel",BCA,Product Manager
+Candidate_1500,10,"Excel, Admin",B.Tech in CS,Product Manager
+Candidate_1501,2,"R, Statistics",MCA,DevOps Engineer
+Candidate_1502,9,"C++, IoT",MCA,Data Analyst
+Candidate_1503,10,"Java, Spring",B.Tech in CS,Data Scientist
+Candidate_1504,8,"PHP, Laravel",MBA,DevOps Engineer
+Candidate_1505,10,"Java, Spring",Diploma in CS,Embedded Engineer
+Candidate_1506,1,"JavaScript, React",Diploma in CS,Data Analyst
+Candidate_1507,9,"JavaScript, React",B.Com,Virtual Assistant
+Candidate_1508,8,"JavaScript, React",MCA,Embedded Engineer
+Candidate_1509,4,"Java, Spring",M.Tech,Frontend Developer
+Candidate_1510,6,"C++, IoT",MCA,DevOps Engineer
+Candidate_1511,6,"AWS, DevOps",MBA,Data Analyst
+Candidate_1512,1,"Angular, TypeScript",M.Tech,Data Analyst
+Candidate_1513,0,"R, Statistics",BCA,Data Scientist
+Candidate_1514,13,"Excel, Admin",BCA,Backend Developer
+Candidate_1515,12,"Excel, Admin",M.Tech,DevOps Engineer
+Candidate_1516,15,"Python, SQL, ML",B.Sc in IT,DevOps Engineer
+Candidate_1517,11,"Excel, Admin",B.Tech in CS,Virtual Assistant
+Candidate_1518,2,"R, Statistics",MBA,Product Manager
+Candidate_1519,2,"Angular, TypeScript",B.Sc in IT,Embedded Engineer
+Candidate_1520,0,"JavaScript, React",MBA,DevOps Engineer
+Candidate_1521,5,"Java, Spring",B.Sc in IT,DevOps Engineer
+Candidate_1522,15,"AWS, DevOps",MCA,Frontend Developer
+Candidate_1523,10,"Python, SQL, ML",BCA,Embedded Engineer
+Candidate_1524,4,"Java, Spring",Diploma in CS,Data Analyst
+Candidate_1525,5,"Python, SQL, ML",Diploma in CS,DevOps Engineer
+Candidate_1526,13,"Node.js, MongoDB",MCA,Virtual Assistant
+Candidate_1527,8,"JavaScript, React",B.Com,Data Scientist
+Candidate_1528,10,"Node.js, MongoDB",M.Tech,Product Manager
+Candidate_1529,12,"Python, SQL, ML",B.Com,Data Analyst
+Candidate_1530,6,"Excel, Admin",B.Com,Data Scientist
+Candidate_1531,3,"Java, Spring",MBA,Product Manager
+Candidate_1532,15,"Java, Spring",B.Com,Embedded Engineer
+Candidate_1533,4,"Excel, Admin",Diploma in CS,Product Manager
+Candidate_1534,8,"PHP, Laravel",B.Sc in IT,DevOps Engineer
+Candidate_1535,5,"Excel, Admin",B.Com,Virtual Assistant
+Candidate_1536,14,"Java, Spring",MCA,Frontend Developer
+Candidate_1537,0,"AWS, DevOps",B.Tech in CS,Frontend Developer
+Candidate_1538,15,"Java, Spring",MCA,Data Analyst
+Candidate_1539,2,"JavaScript, React",MBA,Frontend Developer
+Candidate_1540,15,"Angular, TypeScript",MCA,Frontend Developer
+Candidate_1541,3,"Angular, TypeScript",B.Tech in CS,Data Analyst
+Candidate_1542,3,"Angular, TypeScript",B.Sc in IT,Product Manager
+Candidate_1543,5,"Java, Spring",MCA,Embedded Engineer
+Candidate_1544,10,"Python, SQL, ML",B.Sc in IT,Frontend Developer
+Candidate_1545,10,"Java, Spring",Diploma in CS,DevOps Engineer
+Candidate_1546,9,"Node.js, MongoDB",Diploma in CS,Backend Developer
+Candidate_1547,7,"Java, Spring",BCA,Backend Developer
+Candidate_1548,3,"Node.js, MongoDB",Diploma in CS,Product Manager
+Candidate_1549,1,"JavaScript, React",B.Sc in IT,Backend Developer
+Candidate_1550,4,"C++, IoT",B.Tech in CS,Data Analyst
+Candidate_1551,1,"Java, Spring",MBA,Backend Developer
+Candidate_1552,11,"Excel, Admin",Diploma in CS,DevOps Engineer
+Candidate_1553,10,"Python, SQL, ML",M.Tech,DevOps Engineer
+Candidate_1554,2,"PHP, Laravel",MCA,Frontend Developer
+Candidate_1555,2,"Angular, TypeScript",B.Sc in IT,Embedded Engineer
+Candidate_1556,4,"Python, SQL, ML",MCA,Data Scientist
+Candidate_1557,7,"JavaScript, React",MBA,DevOps Engineer
+Candidate_1558,1,"JavaScript, React",Diploma in CS,Virtual Assistant
+Candidate_1559,5,"C++, IoT",MCA,Virtual Assistant
+Candidate_1560,12,"Python, SQL, ML",Diploma in CS,Backend Developer
+Candidate_1561,0,"Python, SQL, ML",B.Com,Data Analyst
+Candidate_1562,6,"AWS, DevOps",B.Sc in IT,Frontend Developer
+Candidate_1563,8,"Angular, TypeScript",M.Tech,Product Manager
+Candidate_1564,1,"Excel, Admin",M.Tech,Virtual Assistant
+Candidate_1565,6,"C++, IoT",B.Tech in CS,Data Analyst
+Candidate_1566,3,"Python, SQL, ML",M.Tech,Backend Developer
+Candidate_1567,8,"C++, IoT",B.Com,Frontend Developer
+Candidate_1568,8,"Excel, Admin",MCA,Product Manager
+Candidate_1569,13,"C++, IoT",B.Com,Backend Developer
+Candidate_1570,12,"R, Statistics",BCA,Frontend Developer
+Candidate_1571,2,"R, Statistics",M.Tech,Data Analyst
+Candidate_1572,3,"PHP, Laravel",M.Tech,Data Analyst
+Candidate_1573,7,"AWS, DevOps",MBA,Product Manager
+Candidate_1574,15,"Node.js, MongoDB",B.Tech in CS,Embedded Engineer
+Candidate_1575,8,"Excel, Admin",B.Sc in IT,Frontend Developer
+Candidate_1576,8,"Python, SQL, ML",MBA,Data Scientist
+Candidate_1577,5,"Excel, Admin",MBA,Virtual Assistant
+Candidate_1578,12,"JavaScript, React",B.Com,Data Analyst
+Candidate_1579,1,"AWS, DevOps",B.Tech in CS,Virtual Assistant
+Candidate_1580,10,"PHP, Laravel",B.Com,Virtual Assistant
+Candidate_1581,5,"PHP, Laravel",MBA,Virtual Assistant
+Candidate_1582,9,"Angular, TypeScript",BCA,Virtual Assistant
+Candidate_1583,14,"Excel, Admin",Diploma in CS,Data Scientist
+Candidate_1584,6,"C++, IoT",B.Tech in CS,Product Manager
+Candidate_1585,10,"Excel, Admin",BCA,Embedded Engineer
+Candidate_1586,15,"Angular, TypeScript",Diploma in CS,Embedded Engineer
+Candidate_1587,13,"Node.js, MongoDB",M.Tech,Backend Developer
+Candidate_1588,7,"JavaScript, React",B.Sc in IT,DevOps Engineer
+Candidate_1589,4,"AWS, DevOps",M.Tech,Data Scientist
+Candidate_1590,12,"Java, Spring",BCA,Virtual Assistant
+Candidate_1591,9,"Python, SQL, ML",B.Com,Data Analyst
+Candidate_1592,3,"R, Statistics",MCA,Product Manager
+Candidate_1593,6,"C++, IoT",BCA,Virtual Assistant
+Candidate_1594,14,"Angular, TypeScript",B.Com,Product Manager
+Candidate_1595,15,"JavaScript, React",BCA,Data Analyst
+Candidate_1596,9,"Angular, TypeScript",M.Tech,DevOps Engineer
+Candidate_1597,14,"AWS, DevOps",M.Tech,Backend Developer
+Candidate_1598,6,"R, Statistics",B.Tech in CS,Embedded Engineer
+Candidate_1599,13,"Node.js, MongoDB",Diploma in CS,DevOps Engineer
+Candidate_1600,7,"PHP, Laravel",MCA,Frontend Developer
+Candidate_1601,9,"Python, SQL, ML",MCA,Product Manager
+Candidate_1602,14,"PHP, Laravel",B.Com,Virtual Assistant
+Candidate_1603,9,"R, Statistics",M.Tech,Frontend Developer
+Candidate_1604,12,"Angular, TypeScript",BCA,Virtual Assistant
+Candidate_1605,12,"Python, SQL, ML",MCA,Backend Developer
+Candidate_1606,0,"JavaScript, React",B.Tech in CS,Embedded Engineer
+Candidate_1607,10,"Angular, TypeScript",B.Com,Frontend Developer
+Candidate_1608,5,"PHP, Laravel",B.Tech in CS,DevOps Engineer
+Candidate_1609,4,"Python, SQL, ML",M.Tech,Backend Developer
+Candidate_1610,7,"JavaScript, React",B.Sc in IT,Data Analyst
+Candidate_1611,4,"Java, Spring",BCA,Data Analyst
+Candidate_1612,14,"PHP, Laravel",MBA,Product Manager
+Candidate_1613,10,"PHP, Laravel",Diploma in CS,Embedded Engineer
+Candidate_1614,1,"R, Statistics",Diploma in CS,Embedded Engineer
+Candidate_1615,11,"Angular, TypeScript",Diploma in CS,DevOps Engineer
+Candidate_1616,9,"Node.js, MongoDB",B.Sc in IT,Backend Developer
+Candidate_1617,5,"Excel, Admin",B.Tech in CS,Data Analyst
+Candidate_1618,5,"Excel, Admin",B.Tech in CS,Product Manager
+Candidate_1619,15,"C++, IoT",MCA,Frontend Developer
+Candidate_1620,0,"Java, Spring",B.Sc in IT,Backend Developer
+Candidate_1621,11,"Angular, TypeScript",B.Sc in IT,Embedded Engineer
+Candidate_1622,10,"AWS, DevOps",MBA,DevOps Engineer
+Candidate_1623,4,"Angular, TypeScript",B.Tech in CS,Data Scientist
+Candidate_1624,3,"Excel, Admin",B.Sc in IT,Frontend Developer
+Candidate_1625,5,"Python, SQL, ML",Diploma in CS,DevOps Engineer
+Candidate_1626,15,"Python, SQL, ML",MBA,Product Manager
+Candidate_1627,9,"JavaScript, React",B.Sc in IT,Virtual Assistant
+Candidate_1628,4,"AWS, DevOps",Diploma in CS,Data Analyst
+Candidate_1629,2,"PHP, Laravel",MCA,Backend Developer
+Candidate_1630,11,"Python, SQL, ML",B.Tech in CS,Data Analyst
+Candidate_1631,7,"AWS, DevOps",B.Com,Product Manager
+Candidate_1632,9,"R, Statistics",MCA,Virtual Assistant
+Candidate_1633,11,"AWS, DevOps",M.Tech,Backend Developer
+Candidate_1634,2,"JavaScript, React",B.Sc in IT,Frontend Developer
+Candidate_1635,1,"R, Statistics",B.Com,Embedded Engineer
+Candidate_1636,10,"AWS, DevOps",B.Tech in CS,Product Manager
+Candidate_1637,12,"Angular, TypeScript",B.Sc in IT,Data Scientist
+Candidate_1638,5,"Excel, Admin",B.Com,Backend Developer
+Candidate_1639,7,"Node.js, MongoDB",Diploma in CS,Data Analyst
+Candidate_1640,6,"PHP, Laravel",B.Tech in CS,Data Analyst
+Candidate_1641,0,"Python, SQL, ML",M.Tech,Data Scientist
+Candidate_1642,3,"PHP, Laravel",MBA,DevOps Engineer
+Candidate_1643,7,"Angular, TypeScript",Diploma in CS,Data Scientist
+Candidate_1644,13,"JavaScript, React",B.Sc in IT,Data Analyst
+Candidate_1645,7,"Angular, TypeScript",MCA,Virtual Assistant
+Candidate_1646,6,"Excel, Admin",BCA,Virtual Assistant
+Candidate_1647,12,"PHP, Laravel",Diploma in CS,Product Manager
+Candidate_1648,5,"C++, IoT",B.Sc in IT,DevOps Engineer
+Candidate_1649,4,"Angular, TypeScript",MCA,Frontend Developer
+Candidate_1650,3,"Java, Spring",B.Tech in CS,Frontend Developer
+Candidate_1651,0,"PHP, Laravel",Diploma in CS,Product Manager
+Candidate_1652,10,"Node.js, MongoDB",Diploma in CS,DevOps Engineer
+Candidate_1653,11,"Node.js, MongoDB",MBA,DevOps Engineer
+Candidate_1654,10,"Node.js, MongoDB",MCA,Embedded Engineer
+Candidate_1655,11,"Java, Spring",MCA,Data Analyst
+Candidate_1656,8,"C++, IoT",B.Tech in CS,Product Manager
+Candidate_1657,6,"Node.js, MongoDB",B.Sc in IT,Backend Developer
+Candidate_1658,13,"Excel, Admin",Diploma in CS,Backend Developer
+Candidate_1659,3,"Node.js, MongoDB",M.Tech,Embedded Engineer
+Candidate_1660,0,"JavaScript, React",BCA,Virtual Assistant
+Candidate_1661,7,"AWS, DevOps",BCA,DevOps Engineer
+Candidate_1662,7,"Node.js, MongoDB",B.Com,Product Manager
+Candidate_1663,6,"Python, SQL, ML",Diploma in CS,Embedded Engineer
+Candidate_1664,6,"Node.js, MongoDB",MBA,Frontend Developer
+Candidate_1665,3,"JavaScript, React",MCA,Backend Developer
+Candidate_1666,9,"Node.js, MongoDB",Diploma in CS,Virtual Assistant
+Candidate_1667,12,"Excel, Admin",B.Sc in IT,Data Analyst
+Candidate_1668,11,"Excel, Admin",Diploma in CS,DevOps Engineer
+Candidate_1669,4,"JavaScript, React",B.Sc in IT,Embedded Engineer
+Candidate_1670,15,"C++, IoT",B.Com,Product Manager
+Candidate_1671,10,"PHP, Laravel",Diploma in CS,Data Analyst
+Candidate_1672,8,"C++, IoT",BCA,Virtual Assistant
+Candidate_1673,7,"R, Statistics",M.Tech,Backend Developer
+Candidate_1674,8,"PHP, Laravel",B.Sc in IT,Embedded Engineer
+Candidate_1675,9,"Python, SQL, ML",Diploma in CS,Backend Developer
+Candidate_1676,7,"C++, IoT",B.Com,Embedded Engineer
+Candidate_1677,14,"AWS, DevOps",M.Tech,Embedded Engineer
+Candidate_1678,6,"Java, Spring",B.Com,Data Scientist
+Candidate_1679,15,"AWS, DevOps",B.Com,Backend Developer
+Candidate_1680,6,"C++, IoT",B.Com,Data Scientist
+Candidate_1681,3,"R, Statistics",BCA,Product Manager
+Candidate_1682,5,"C++, IoT",MCA,Product Manager
+Candidate_1683,3,"JavaScript, React",BCA,Data Scientist
+Candidate_1684,14,"Java, Spring",B.Com,Data Scientist
+Candidate_1685,14,"Python, SQL, ML",Diploma in CS,Virtual Assistant
+Candidate_1686,10,"Node.js, MongoDB",B.Com,Data Analyst
+Candidate_1687,7,"Node.js, MongoDB",M.Tech,Data Scientist
+Candidate_1688,10,"Python, SQL, ML",M.Tech,Virtual Assistant
+Candidate_1689,8,"Excel, Admin",Diploma in CS,Product Manager
+Candidate_1690,13,"PHP, Laravel",B.Com,Embedded Engineer
+Candidate_1691,14,"C++, IoT",MBA,Product Manager
+Candidate_1692,3,"Python, SQL, ML",M.Tech,Product Manager
+Candidate_1693,3,"R, Statistics",M.Tech,Product Manager
+Candidate_1694,11,"JavaScript, React",B.Sc in IT,Frontend Developer
+Candidate_1695,14,"Python, SQL, ML",MBA,Data Analyst
+Candidate_1696,12,"JavaScript, React",B.Tech in CS,Frontend Developer
+Candidate_1697,4,"Angular, TypeScript",MBA,Backend Developer
+Candidate_1698,3,"Python, SQL, ML",MCA,Embedded Engineer
+Candidate_1699,13,"PHP, Laravel",BCA,Product Manager
+Candidate_1700,0,"Excel, Admin",MBA,Product Manager
+Candidate_1701,10,"Excel, Admin",MCA,Data Analyst
+Candidate_1702,7,"PHP, Laravel",BCA,Embedded Engineer
+Candidate_1703,15,"Angular, TypeScript",B.Sc in IT,DevOps Engineer
+Candidate_1704,6,"JavaScript, React",Diploma in CS,Virtual Assistant
+Candidate_1705,10,"C++, IoT",B.Sc in IT,Backend Developer
+Candidate_1706,7,"Angular, TypeScript",MCA,Backend Developer
+Candidate_1707,1,"Python, SQL, ML",B.Tech in CS,Embedded Engineer
+Candidate_1708,2,"AWS, DevOps",MBA,DevOps Engineer
+Candidate_1709,4,"Node.js, MongoDB",Diploma in CS,Backend Developer
+Candidate_1710,5,"C++, IoT",Diploma in CS,Backend Developer
+Candidate_1711,1,"JavaScript, React",B.Tech in CS,Data Scientist
+Candidate_1712,10,"Python, SQL, ML",BCA,Embedded Engineer
+Candidate_1713,5,"Angular, TypeScript",BCA,Data Analyst
+Candidate_1714,9,"Excel, Admin",Diploma in CS,Frontend Developer
+Candidate_1715,11,"Python, SQL, ML",M.Tech,Frontend Developer
+Candidate_1716,10,"Angular, TypeScript",B.Tech in CS,Virtual Assistant
+Candidate_1717,12,"Python, SQL, ML",MCA,Frontend Developer
+Candidate_1718,10,"R, Statistics",B.Com,Backend Developer
+Candidate_1719,10,"Java, Spring",M.Tech,Virtual Assistant
+Candidate_1720,6,"C++, IoT",MCA,Embedded Engineer
+Candidate_1721,13,"PHP, Laravel",M.Tech,Data Scientist
+Candidate_1722,10,"PHP, Laravel",B.Sc in IT,Data Scientist
+Candidate_1723,14,"R, Statistics",B.Com,Product Manager
+Candidate_1724,14,"Python, SQL, ML",B.Tech in CS,Frontend Developer
+Candidate_1725,1,"C++, IoT",B.Tech in CS,Data Analyst
+Candidate_1726,10,"Angular, TypeScript",BCA,Frontend Developer
+Candidate_1727,0,"R, Statistics",B.Sc in IT,Virtual Assistant
+Candidate_1728,1,"JavaScript, React",B.Sc in IT,Backend Developer
+Candidate_1729,5,"R, Statistics",BCA,Virtual Assistant
+Candidate_1730,2,"Node.js, MongoDB",Diploma in CS,DevOps Engineer
+Candidate_1731,10,"AWS, DevOps",B.Com,Data Analyst
+Candidate_1732,2,"Python, SQL, ML",MCA,Backend Developer
+Candidate_1733,6,"AWS, DevOps",B.Tech in CS,Frontend Developer
+Candidate_1734,8,"Angular, TypeScript",MCA,Frontend Developer
+Candidate_1735,0,"Angular, TypeScript",B.Com,Data Analyst
+Candidate_1736,7,"C++, IoT",BCA,Backend Developer
+Candidate_1737,9,"Python, SQL, ML",MBA,Virtual Assistant
+Candidate_1738,0,"Node.js, MongoDB",Diploma in CS,DevOps Engineer
+Candidate_1739,1,"Java, Spring",M.Tech,Backend Developer
+Candidate_1740,0,"Excel, Admin",M.Tech,Backend Developer
+Candidate_1741,0,"AWS, DevOps",B.Sc in IT,Data Analyst
+Candidate_1742,3,"Python, SQL, ML",M.Tech,Embedded Engineer
+Candidate_1743,8,"PHP, Laravel",MCA,Data Scientist
+Candidate_1744,14,"JavaScript, React",MBA,Product Manager
+Candidate_1745,7,"PHP, Laravel",B.Com,Frontend Developer
+Candidate_1746,10,"Excel, Admin",M.Tech,Data Analyst
+Candidate_1747,11,"Python, SQL, ML",B.Sc in IT,Backend Developer
+Candidate_1748,1,"C++, IoT",MCA,Backend Developer
+Candidate_1749,12,"JavaScript, React",M.Tech,Embedded Engineer
+Candidate_1750,13,"Node.js, MongoDB",Diploma in CS,Data Analyst
+Candidate_1751,12,"Java, Spring",BCA,Product Manager
+Candidate_1752,9,"Python, SQL, ML",B.Tech in CS,Data Analyst
+Candidate_1753,11,"PHP, Laravel",B.Com,Virtual Assistant
+Candidate_1754,1,"Node.js, MongoDB",B.Tech in CS,Embedded Engineer
+Candidate_1755,9,"Java, Spring",M.Tech,Backend Developer
+Candidate_1756,13,"R, Statistics",MCA,Virtual Assistant
+Candidate_1757,0,"Angular, TypeScript",B.Tech in CS,Data Scientist
+Candidate_1758,14,"Node.js, MongoDB",BCA,Virtual Assistant
+Candidate_1759,13,"JavaScript, React",MBA,Backend Developer
+Candidate_1760,3,"JavaScript, React",B.Sc in IT,Backend Developer
+Candidate_1761,5,"JavaScript, React",BCA,DevOps Engineer
+Candidate_1762,5,"Node.js, MongoDB",B.Com,Data Analyst
+Candidate_1763,2,"Node.js, MongoDB",BCA,Backend Developer
+Candidate_1764,10,"Python, SQL, ML",Diploma in CS,Frontend Developer
+Candidate_1765,8,"Angular, TypeScript",B.Sc in IT,Data Scientist
+Candidate_1766,10,"Python, SQL, ML",Diploma in CS,Data Analyst
+Candidate_1767,9,"C++, IoT",B.Tech in CS,Embedded Engineer
+Candidate_1768,9,"Java, Spring",M.Tech,Frontend Developer
+Candidate_1769,13,"Python, SQL, ML",Diploma in CS,Data Analyst
+Candidate_1770,14,"PHP, Laravel",B.Sc in IT,Backend Developer
+Candidate_1771,7,"C++, IoT",M.Tech,DevOps Engineer
+Candidate_1772,8,"C++, IoT",MCA,Data Analyst
+Candidate_1773,0,"Node.js, MongoDB",M.Tech,Frontend Developer
+Candidate_1774,2,"Python, SQL, ML",Diploma in CS,DevOps Engineer
+Candidate_1775,3,"Java, Spring",B.Tech in CS,Product Manager
+Candidate_1776,3,"JavaScript, React",MCA,Backend Developer
+Candidate_1777,14,"R, Statistics",MCA,Data Analyst
+Candidate_1778,3,"C++, IoT",B.Com,Backend Developer
+Candidate_1779,8,"Angular, TypeScript",MBA,Backend Developer
+Candidate_1780,0,"R, Statistics",B.Tech in CS,Data Scientist
+Candidate_1781,13,"PHP, Laravel",BCA,Backend Developer
+Candidate_1782,15,"Java, Spring",B.Tech in CS,Product Manager
+Candidate_1783,4,"Python, SQL, ML",BCA,Data Scientist
+Candidate_1784,5,"JavaScript, React",B.Com,DevOps Engineer
+Candidate_1785,5,"Java, Spring",Diploma in CS,Data Analyst
+Candidate_1786,6,"Java, Spring",MBA,Product Manager
+Candidate_1787,11,"Java, Spring",B.Sc in IT,Frontend Developer
+Candidate_1788,13,"AWS, DevOps",B.Tech in CS,Virtual Assistant
+Candidate_1789,7,"R, Statistics",BCA,Embedded Engineer
+Candidate_1790,8,"Excel, Admin",MCA,Data Scientist
+Candidate_1791,10,"Excel, Admin",B.Tech in CS,Virtual Assistant
+Candidate_1792,5,"Java, Spring",B.Sc in IT,Virtual Assistant
+Candidate_1793,2,"Angular, TypeScript",Diploma in CS,Data Scientist
+Candidate_1794,14,"Java, Spring",BCA,DevOps Engineer
+Candidate_1795,14,"Node.js, MongoDB",B.Com,DevOps Engineer
+Candidate_1796,3,"PHP, Laravel",B.Tech in CS,Embedded Engineer
+Candidate_1797,15,"Java, Spring",MBA,Data Scientist
+Candidate_1798,11,"C++, IoT",M.Tech,Backend Developer
+Candidate_1799,8,"Java, Spring",MBA,Virtual Assistant
+Candidate_1800,2,"Excel, Admin",B.Sc in IT,Backend Developer
+Candidate_1801,8,"Node.js, MongoDB",MCA,Data Analyst
+Candidate_1802,8,"Python, SQL, ML",Diploma in CS,Frontend Developer
+Candidate_1803,4,"Node.js, MongoDB",MCA,Data Analyst
+Candidate_1804,13,"Java, Spring",B.Sc in IT,Backend Developer
+Candidate_1805,7,"R, Statistics",BCA,Backend Developer
+Candidate_1806,13,"Angular, TypeScript",B.Com,Embedded Engineer
+Candidate_1807,8,"Angular, TypeScript",MBA,Frontend Developer
+Candidate_1808,2,"AWS, DevOps",B.Com,Backend Developer
+Candidate_1809,12,"Python, SQL, ML",BCA,Backend Developer
+Candidate_1810,14,"Excel, Admin",B.Com,Data Scientist
+Candidate_1811,3,"AWS, DevOps",Diploma in CS,Data Analyst
+Candidate_1812,8,"Angular, TypeScript",B.Tech in CS,Embedded Engineer
+Candidate_1813,1,"JavaScript, React",BCA,Product Manager
+Candidate_1814,14,"Python, SQL, ML",BCA,Embedded Engineer
+Candidate_1815,3,"C++, IoT",MBA,Embedded Engineer
+Candidate_1816,9,"Python, SQL, ML",B.Com,Data Scientist
+Candidate_1817,13,"Node.js, MongoDB",BCA,Frontend Developer
+Candidate_1818,12,"Angular, TypeScript",MCA,Data Scientist
+Candidate_1819,11,"Python, SQL, ML",B.Tech in CS,Virtual Assistant
+Candidate_1820,15,"R, Statistics",B.Com,Virtual Assistant
+Candidate_1821,5,"AWS, DevOps",B.Tech in CS,Data Scientist
+Candidate_1822,8,"Node.js, MongoDB",B.Com,Frontend Developer
+Candidate_1823,2,"Node.js, MongoDB",MBA,Virtual Assistant
+Candidate_1824,13,"AWS, DevOps",B.Com,Frontend Developer
+Candidate_1825,10,"Python, SQL, ML",B.Tech in CS,Virtual Assistant
+Candidate_1826,13,"C++, IoT",MBA,Virtual Assistant
+Candidate_1827,11,"AWS, DevOps",B.Tech in CS,Embedded Engineer
+Candidate_1828,15,"AWS, DevOps",M.Tech,Data Analyst
+Candidate_1829,6,"R, Statistics",B.Sc in IT,Data Analyst
+Candidate_1830,7,"Java, Spring",BCA,Backend Developer
+Candidate_1831,12,"Java, Spring",M.Tech,Product Manager
+Candidate_1832,12,"Python, SQL, ML",MCA,Data Scientist
+Candidate_1833,4,"C++, IoT",B.Sc in IT,Data Analyst
+Candidate_1834,11,"Node.js, MongoDB",MCA,Product Manager
+Candidate_1835,13,"JavaScript, React",B.Com,Data Scientist
+Candidate_1836,6,"Java, Spring",MCA,Virtual Assistant
+Candidate_1837,14,"Java, Spring",M.Tech,Data Analyst
+Candidate_1838,12,"Node.js, MongoDB",B.Com,Virtual Assistant
+Candidate_1839,3,"PHP, Laravel",B.Tech in CS,Backend Developer
+Candidate_1840,7,"Python, SQL, ML",B.Com,Embedded Engineer
+Candidate_1841,2,"AWS, DevOps",Diploma in CS,Embedded Engineer
+Candidate_1842,4,"PHP, Laravel",Diploma in CS,Virtual Assistant
+Candidate_1843,1,"R, Statistics",B.Sc in IT,Backend Developer
+Candidate_1844,9,"Python, SQL, ML",BCA,Backend Developer
+Candidate_1845,12,"Excel, Admin",B.Sc in IT,Data Scientist
+Candidate_1846,13,"R, Statistics",M.Tech,Backend Developer
+Candidate_1847,14,"R, Statistics",B.Com,Frontend Developer
+Candidate_1848,15,"Angular, TypeScript",Diploma in CS,Frontend Developer
+Candidate_1849,7,"R, Statistics",B.Com,Data Analyst
+Candidate_1850,6,"AWS, DevOps",MBA,Data Scientist
+Candidate_1851,15,"Excel, Admin",M.Tech,Data Analyst
+Candidate_1852,0,"Node.js, MongoDB",BCA,Embedded Engineer
+Candidate_1853,10,"R, Statistics",B.Sc in IT,Embedded Engineer
+Candidate_1854,7,"Python, SQL, ML",B.Tech in CS,DevOps Engineer
+Candidate_1855,14,"Excel, Admin",BCA,Data Analyst
+Candidate_1856,4,"R, Statistics",MCA,Data Analyst
+Candidate_1857,5,"PHP, Laravel",BCA,Backend Developer
+Candidate_1858,10,"JavaScript, React",BCA,DevOps Engineer
+Candidate_1859,3,"JavaScript, React",B.Sc in IT,Embedded Engineer
+Candidate_1860,7,"Python, SQL, ML",MCA,Data Analyst
+Candidate_1861,10,"C++, IoT",BCA,Data Scientist
+Candidate_1862,12,"R, Statistics",MBA,Data Scientist
+Candidate_1863,5,"JavaScript, React",B.Tech in CS,DevOps Engineer
+Candidate_1864,4,"Python, SQL, ML",B.Tech in CS,Data Scientist
+Candidate_1865,12,"PHP, Laravel",B.Com,Frontend Developer
+Candidate_1866,14,"Python, SQL, ML",M.Tech,Frontend Developer
+Candidate_1867,0,"PHP, Laravel",BCA,Frontend Developer
+Candidate_1868,1,"Python, SQL, ML",B.Sc in IT,Embedded Engineer
+Candidate_1869,9,"JavaScript, React",B.Tech in CS,Virtual Assistant
+Candidate_1870,8,"Java, Spring",MCA,Embedded Engineer
+Candidate_1871,8,"C++, IoT",MCA,Virtual Assistant
+Candidate_1872,9,"C++, IoT",MBA,Embedded Engineer
+Candidate_1873,5,"C++, IoT",M.Tech,Product Manager
+Candidate_1874,9,"PHP, Laravel",B.Com,Frontend Developer
+Candidate_1875,14,"JavaScript, React",B.Tech in CS,Virtual Assistant
+Candidate_1876,9,"Excel, Admin",MBA,Data Analyst
+Candidate_1877,7,"R, Statistics",B.Sc in IT,DevOps Engineer
+Candidate_1878,15,"Python, SQL, ML",Diploma in CS,Embedded Engineer
+Candidate_1879,5,"AWS, DevOps",B.Sc in IT,Frontend Developer
+Candidate_1880,2,"PHP, Laravel",M.Tech,Product Manager
+Candidate_1881,4,"Java, Spring",MCA,Frontend Developer
+Candidate_1882,12,"Python, SQL, ML",MBA,Frontend Developer
+Candidate_1883,1,"Angular, TypeScript",B.Tech in CS,Data Analyst
+Candidate_1884,13,"R, Statistics",B.Sc in IT,Backend Developer
+Candidate_1885,4,"Excel, Admin",Diploma in CS,Embedded Engineer
+Candidate_1886,6,"JavaScript, React",B.Com,DevOps Engineer
+Candidate_1887,13,"AWS, DevOps",B.Sc in IT,Product Manager
+Candidate_1888,13,"Angular, TypeScript",MBA,Backend Developer
+Candidate_1889,2,"PHP, Laravel",B.Com,Embedded Engineer
+Candidate_1890,5,"JavaScript, React",M.Tech,Virtual Assistant
+Candidate_1891,12,"Excel, Admin",Diploma in CS,Embedded Engineer
+Candidate_1892,3,"Angular, TypeScript",Diploma in CS,DevOps Engineer
+Candidate_1893,11,"Angular, TypeScript",MBA,Virtual Assistant
+Candidate_1894,4,"AWS, DevOps",MCA,Embedded Engineer
+Candidate_1895,12,"R, Statistics",Diploma in CS,Data Analyst
+Candidate_1896,9,"JavaScript, React",Diploma in CS,Frontend Developer
+Candidate_1897,7,"R, Statistics",M.Tech,Frontend Developer
+Candidate_1898,13,"Node.js, MongoDB",M.Tech,Product Manager
+Candidate_1899,9,"Python, SQL, ML",B.Tech in CS,Data Scientist
+Candidate_1900,11,"Excel, Admin",M.Tech,Frontend Developer
+Candidate_1901,10,"R, Statistics",M.Tech,DevOps Engineer
+Candidate_1902,11,"R, Statistics",B.Tech in CS,Product Manager
+Candidate_1903,8,"R, Statistics",M.Tech,Frontend Developer
+Candidate_1904,12,"Excel, Admin",Diploma in CS,Embedded Engineer
+Candidate_1905,15,"R, Statistics",B.Com,DevOps Engineer
+Candidate_1906,3,"C++, IoT",B.Com,DevOps Engineer
+Candidate_1907,8,"JavaScript, React",Diploma in CS,Data Scientist
+Candidate_1908,14,"PHP, Laravel",B.Com,Product Manager
+Candidate_1909,0,"C++, IoT",MBA,Embedded Engineer
+Candidate_1910,0,"R, Statistics",M.Tech,Data Analyst
+Candidate_1911,0,"Python, SQL, ML",M.Tech,Frontend Developer
+Candidate_1912,4,"C++, IoT",Diploma in CS,Virtual Assistant
+Candidate_1913,0,"R, Statistics",M.Tech,Data Analyst
+Candidate_1914,2,"C++, IoT",B.Com,Backend Developer
+Candidate_1915,14,"Node.js, MongoDB",Diploma in CS,Backend Developer
+Candidate_1916,15,"Python, SQL, ML",BCA,DevOps Engineer
+Candidate_1917,5,"Python, SQL, ML",BCA,Frontend Developer
+Candidate_1918,12,"Python, SQL, ML",MCA,Product Manager
+Candidate_1919,6,"Java, Spring",MBA,Virtual Assistant
+Candidate_1920,4,"C++, IoT",M.Tech,Backend Developer
+Candidate_1921,12,"C++, IoT",B.Tech in CS,Embedded Engineer
+Candidate_1922,15,"AWS, DevOps",MBA,Data Analyst
+Candidate_1923,8,"Excel, Admin",M.Tech,Backend Developer
+Candidate_1924,10,"Java, Spring",B.Com,Frontend Developer
+Candidate_1925,9,"C++, IoT",MBA,DevOps Engineer
+Candidate_1926,4,"R, Statistics",B.Tech in CS,Backend Developer
+Candidate_1927,10,"Java, Spring",M.Tech,Data Scientist
+Candidate_1928,10,"R, Statistics",MBA,Embedded Engineer
+Candidate_1929,0,"R, Statistics",B.Com,Data Analyst
+Candidate_1930,6,"R, Statistics",MBA,Product Manager
+Candidate_1931,13,"Angular, TypeScript",BCA,DevOps Engineer
+Candidate_1932,15,"JavaScript, React",MCA,Product Manager
+Candidate_1933,11,"AWS, DevOps",M.Tech,Data Analyst
+Candidate_1934,14,"Node.js, MongoDB",B.Sc in IT,Embedded Engineer
+Candidate_1935,13,"Python, SQL, ML",BCA,Backend Developer
+Candidate_1936,0,"Excel, Admin",Diploma in CS,DevOps Engineer
+Candidate_1937,7,"Angular, TypeScript",BCA,Data Scientist
+Candidate_1938,11,"PHP, Laravel",B.Tech in CS,Product Manager
+Candidate_1939,3,"Angular, TypeScript",B.Sc in IT,Embedded Engineer
+Candidate_1940,14,"Node.js, MongoDB",B.Sc in IT,Embedded Engineer
+Candidate_1941,7,"JavaScript, React",B.Sc in IT,Embedded Engineer
+Candidate_1942,12,"AWS, DevOps",Diploma in CS,Frontend Developer
+Candidate_1943,8,"AWS, DevOps",M.Tech,Data Analyst
+Candidate_1944,8,"PHP, Laravel",B.Sc in IT,Product Manager
+Candidate_1945,15,"Java, Spring",B.Sc in IT,Data Scientist
+Candidate_1946,8,"Java, Spring",MBA,Backend Developer
+Candidate_1947,11,"JavaScript, React",B.Com,Virtual Assistant
+Candidate_1948,11,"R, Statistics",MCA,Backend Developer
+Candidate_1949,8,"Python, SQL, ML",B.Com,Data Scientist
+Candidate_1950,10,"PHP, Laravel",B.Sc in IT,DevOps Engineer
+Candidate_1951,8,"AWS, DevOps",M.Tech,Backend Developer
+Candidate_1952,8,"Python, SQL, ML",M.Tech,Frontend Developer
+Candidate_1953,5,"JavaScript, React",BCA,Data Scientist
+Candidate_1954,8,"Node.js, MongoDB",B.Com,Frontend Developer
+Candidate_1955,8,"Angular, TypeScript",Diploma in CS,Product Manager
+Candidate_1956,1,"Python, SQL, ML",MBA,Frontend Developer
+Candidate_1957,12,"AWS, DevOps",BCA,Frontend Developer
+Candidate_1958,1,"Node.js, MongoDB",B.Com,Embedded Engineer
+Candidate_1959,12,"Excel, Admin",MBA,Virtual Assistant
+Candidate_1960,8,"Angular, TypeScript",MCA,Embedded Engineer
+Candidate_1961,11,"C++, IoT",B.Sc in IT,Frontend Developer
+Candidate_1962,12,"C++, IoT",B.Com,Virtual Assistant
+Candidate_1963,4,"AWS, DevOps",B.Com,Product Manager
+Candidate_1964,1,"Angular, TypeScript",MCA,Frontend Developer
+Candidate_1965,15,"AWS, DevOps",BCA,Data Scientist
+Candidate_1966,11,"C++, IoT",BCA,Product Manager
+Candidate_1967,14,"Angular, TypeScript",MBA,Embedded Engineer
+Candidate_1968,0,"Python, SQL, ML",MCA,Embedded Engineer
+Candidate_1969,3,"R, Statistics",M.Tech,Virtual Assistant
+Candidate_1970,3,"Java, Spring",MBA,Frontend Developer
+Candidate_1971,14,"AWS, DevOps",MCA,Embedded Engineer
+Candidate_1972,3,"Java, Spring",B.Tech in CS,Embedded Engineer
+Candidate_1973,1,"C++, IoT",B.Tech in CS,Data Analyst
+Candidate_1974,1,"Angular, TypeScript",BCA,Data Analyst
+Candidate_1975,11,"AWS, DevOps",MBA,DevOps Engineer
+Candidate_1976,10,"Node.js, MongoDB",MCA,Frontend Developer
+Candidate_1977,11,"JavaScript, React",M.Tech,DevOps Engineer
+Candidate_1978,3,"PHP, Laravel",MBA,Virtual Assistant
+Candidate_1979,8,"Excel, Admin",Diploma in CS,Frontend Developer
+Candidate_1980,3,"Java, Spring",Diploma in CS,DevOps Engineer
+Candidate_1981,11,"R, Statistics",MCA,Data Analyst
+Candidate_1982,12,"AWS, DevOps",Diploma in CS,Virtual Assistant
+Candidate_1983,5,"Python, SQL, ML",MCA,Backend Developer
+Candidate_1984,10,"AWS, DevOps",M.Tech,Embedded Engineer
+Candidate_1985,1,"Angular, TypeScript",MBA,Frontend Developer
+Candidate_1986,11,"C++, IoT",B.Tech in CS,Product Manager
+Candidate_1987,5,"Excel, Admin",BCA,Data Scientist
+Candidate_1988,11,"R, Statistics",B.Tech in CS,Data Scientist
+Candidate_1989,4,"Angular, TypeScript",B.Tech in CS,Data Analyst
+Candidate_1990,8,"AWS, DevOps",M.Tech,Frontend Developer
+Candidate_1991,6,"Angular, TypeScript",BCA,Product Manager
+Candidate_1992,0,"JavaScript, React",Diploma in CS,Data Analyst
+Candidate_1993,4,"C++, IoT",B.Sc in IT,DevOps Engineer
+Candidate_1994,0,"AWS, DevOps",M.Tech,Frontend Developer
+Candidate_1995,4,"Node.js, MongoDB",BCA,Backend Developer
+Candidate_1996,13,"AWS, DevOps",BCA,Frontend Developer
+Candidate_1997,11,"Node.js, MongoDB",MBA,Embedded Engineer
+Candidate_1998,5,"PHP, Laravel",Diploma in CS,DevOps Engineer
+Candidate_1999,15,"C++, IoT",B.Com,Frontend Developer
