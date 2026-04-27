@@ -4,7 +4,7 @@ import re
 import pandas as pd
 import numpy as np
 
-# Text cleaning (must match training)
+# Text cleaning 
 def clean_text(text):
     text = text.lower()
     text = re.sub(r"[^a-z\s]", "", text)
@@ -85,7 +85,7 @@ profession_map = {
 26: "teacher",
 27: "yoga teacher"
 }
-# Keep only rows that arent empty
+# Keep the rows that arent empty only
 resumes_df = resumes_df[resumes_df['resume_text'].notna()].reset_index(drop=True)
 
 # Button to load random CV
@@ -139,13 +139,13 @@ if st.button("Analyse CV"):
 st.divider()
 st.header("Compare Two Candidates for the Same Job")
 
-# Select profession for the comparison
+# Select profession dropdown for candidate comparison feature
 target_prof = st.selectbox(
     "Select a profession to compare candidates for:",
     options=list(profession_map.values())
 )
 
-# predicted professions for filtering using biased model
+# predicted professions using biased model
 resumes_df["pred_biased_prof"] = [
     profession_map[biased_model.predict(vectorizer.transform([clean_text(r)]))[0]]
     for r in resumes_df["resume_text"]
@@ -155,9 +155,9 @@ resumes_df["pred_biased_prof"] = [
 relevant_resumes = resumes_df[resumes_df["pred_biased_prof"] == target_prof]
 
 if len(relevant_resumes) < 2:
-    st.warning("Not enough relevant resumes to compare for this profession.")
+    st.warning("Not enough relevant CVs to compare for this profession.")
 else:
-    # Button to load two random comparable CVs
+    # Button to load two random compatible CVs
     if st.button("Load Two Random CVs"):
         sample = relevant_resumes.sample(2)
         st.session_state["cv_a"] = sample.iloc[0]["resume_text"]
@@ -191,7 +191,7 @@ else:
             cv_a = st.session_state["cv_a"]
             cv_b = st.session_state["cv_b"]
 
-            # Scores from biased model (how likely the candidate fits the job)
+            # Scores from biased model (how much the candidate matches the job role)
             biased_a = get_model_score(cv_a, biased_model)
             biased_b = get_model_score(cv_b, biased_model)
 
